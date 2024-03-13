@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGZ35TBOMBRO4is9zEjH0wbvJBrPNCY1/Cn4s0F8fzdD6nDSEvjilJ6805xN4iRO7HUsBmzTqs6SId8tOy8dOg==",
+  "success": true,
+  "projectFilePath": "E:\\UE5\\StudyProject\\TextureTest\\Plugins\\UnLua\\Source\\UnLuaDefaultParamCollectorUbtPlugin\\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

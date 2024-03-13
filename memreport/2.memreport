@@ -1,0 +1,1211 @@
+Changelist: 0
+Config: DebugGame
+Device Name: Android_Adreno7xx
+Device Profile: None
+CommandLine Options:  -project=../../../TextureTest/TextureTest.uproject
+Time Since Boot: 65.72 Seconds
+Local PlayerController: PlayerController_2147482505 View Location: X=0.000 Y=0.000 Z=0.000 View Rotation: P=0.000000 Y=0.000000 R=0.000000
+
+MemReport: Begin command "Mem FromReport"
+Platform Memory Stats for Android
+Process Physical Memory: 517.80 MB used, 517.80 MB peak
+Process Virtual Memory: 8546.34 MB used, 8584.64 MB peak
+Physical Memory: 8010.93 MB used,  3186.61 MB free, 11197.55 MB total
+Virtual Memory: 5463.61 MB used,  2728.39 MB free, 8192.00 MB total
+
+FMallocBinned2 Mem report
+Constants.BinnedPageSize = 65536
+Constants.BinnedAllocationGranularity = 4096
+Small Pool Allocations: 41.761307mb  (including block size padding)
+Small Pool OS Allocated: 52.250000mb
+Large Pool Requested Allocations: 72.062912mb
+Large Pool OS Allocated: 72.242188mb
+Requested Allocations: 72.062912mb
+OS Allocated: 72.242188mb
+PoolInfo: 0.875000mb
+Hash: 0.003906mb
+TLS: 0.039062mb
+Total allocated from OS: 125.410156mb
+Cached free OS pages: 188.875000mb
+Memory Stats:
+FMemStack (gamethread) current size = 0.00 MB
+FPageAllocator (all threads) allocation size [used/ unused] = [0.56 / 0.44] MB
+Nametable memory usage = 2.92 MB
+AssetRegistry memory usage = 0.15 MB
+         0.000MB  -  Program LRU mem mapped (evicted, filemapped) - STAT_OpenGLShaderLRUProgramMemoryMapped - STATGROUP_OpenGLRHI - STATCAT_Advanced
+         0.000MB  -  Program LRU memory (evicted, heap) - STAT_OpenGLShaderLRUProgramMemory - STATGROUP_OpenGLRHI - STATCAT_Advanced
+         0.123MB  -  Active Program binary memory (estimate driver use) - STAT_OpenGLProgramBinaryMemory - STATGROUP_OpenGLRHI - STATCAT_Advanced
+        -0.012MB  -  Uniform buffer pool memory - STAT_OpenGLFreeUniformBufferMemory - STATGROUP_OpenGLRHI - STATCAT_Advanced
+         0.000MB  -  Texture Memory Requested - STAT_RHITransientTextureMemoryRequested - STATGROUP_RHITransientMemory - STATCAT_Advanced
+         0.000MB  -  Buffer Memory Requested - STAT_RHITransientBufferMemoryRequested - STATGROUP_RHITransientMemory - STATCAT_Advanced
+         0.000MB  -  Memory Requested - STAT_RHITransientMemoryRequested - STATGROUP_RHITransientMemory - STATCAT_Advanced
+         0.000MB  -  Memory Aliased - STAT_RHITransientMemoryAliased - STATGROUP_RHITransientMemory - STATCAT_Advanced
+         0.000MB  -  Memory Used - STAT_RHITransientMemoryUsed - STATGROUP_RHITransientMemory - STATCAT_Advanced
+         0.000MB  -  Instance memory - STAT_AI_EQS_InstanceMemory - STATGROUP_AI_EQS - STATCAT_Advanced
+         0.000MB  -  Instance memory - STAT_AI_BehaviorTree_InstanceMemory - STATGROUP_AIBehaviorTree - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project18 - STAT_TEXTUREGROUP_Project18 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project17 - STAT_TEXTUREGROUP_Project17 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project16 - STAT_TEXTUREGROUP_Project16 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project15 - STAT_TEXTUREGROUP_Project15 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project14 - STAT_TEXTUREGROUP_Project14 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project13 - STAT_TEXTUREGROUP_Project13 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project12 - STAT_TEXTUREGROUP_Project12 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project11 - STAT_TEXTUREGROUP_Project11 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project10 - STAT_TEXTUREGROUP_Project10 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project09 - STAT_TEXTUREGROUP_Project09 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project08 - STAT_TEXTUREGROUP_Project08 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project07 - STAT_TEXTUREGROUP_Project07 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project06 - STAT_TEXTUREGROUP_Project06 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project05 - STAT_TEXTUREGROUP_Project05 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project04 - STAT_TEXTUREGROUP_Project04 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project03 - STAT_TEXTUREGROUP_Project03 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project02 - STAT_TEXTUREGROUP_Project02 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Project01 - STAT_TEXTUREGROUP_Project01 - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_16BitData - STAT_TEXTUREGROUP_16BitData - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_8BitData - STAT_TEXTUREGROUP_8BitData - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_ImpostorNormalDepth - STAT_TEXTUREGROUP_ImpostorNormalDepth - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Impostor - STAT_TEXTUREGROUP_Impostor - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_HierarchicalLOD - STAT_TEXTUREGROUP_HierarchicalLOD - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Pixels2D - STAT_TEXTUREGROUP_Pixels2D - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_IESLightProfile - STAT_TEXTUREGROUP_IESLightProfile - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.021MB  -  TEXTUREGROUP_Bokeh - STAT_TEXTUREGROUP_Bokeh - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Terrain_Weightmap - STAT_TEXTUREGROUP_Terrain_Weightmap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Terrain_Heightmap - STAT_TEXTUREGROUP_Terrain_Heightmap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_ColorLookupTable - STAT_TEXTUREGROUP_ColorLookupTable - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Shadowmap - STAT_TEXTUREGROUP_Shadowmap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_ProcBuilding_LightMap - STAT_TEXTUREGROUP_ProcBuilding_LightMap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_ProcBuilding_Face - STAT_TEXTUREGROUP_ProcBuilding_Face - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_MobileFlattened - STAT_TEXTUREGROUP_MobileFlattened - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_RenderTarget - STAT_TEXTUREGROUP_RenderTarget - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Lightmap - STAT_TEXTUREGROUP_Lightmap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.839MB  -  TEXTUREGROUP_UI - STAT_TEXTUREGROUP_UI - STATGROUP_TextureGroup - STATCAT_Advanced
+         2.700MB  -  TEXTUREGROUP_Skybox - STAT_TEXTUREGROUP_Skybox - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_EffectsNotFiltered - STAT_TEXTUREGROUP_EffectsNotFiltered - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Effects - STAT_TEXTUREGROUP_Effects - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Cinematic - STAT_TEXTUREGROUP_Cinematic - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_VehicleSpecular - STAT_TEXTUREGROUP_VehicleSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_VehicleNormalMap - STAT_TEXTUREGROUP_VehicleNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Vehicle - STAT_TEXTUREGROUP_Vehicle - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_WeaponSpecular - STAT_TEXTUREGROUP_WeaponSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_WeaponNormalMap - STAT_TEXTUREGROUP_WeaponNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Weapon - STAT_TEXTUREGROUP_Weapon - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_CharacterSpecular - STAT_TEXTUREGROUP_CharacterSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_CharacterNormalMap - STAT_TEXTUREGROUP_CharacterNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_Character - STAT_TEXTUREGROUP_Character - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  TEXTUREGROUP_WorldSpecular - STAT_TEXTUREGROUP_WorldSpecular - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.038MB  -  TEXTUREGROUP_WorldNormalMap - STAT_TEXTUREGROUP_WorldNormalMap - STATGROUP_TextureGroup - STATCAT_Advanced
+         5.802MB  -  TEXTUREGROUP_World - STAT_TEXTUREGROUP_World - STATGROUP_TextureGroup - STATCAT_Advanced
+         0.000MB  -  Mesh LOD Bytes Evicted - STAT_StreamingOverview15_EvictedMeshMem - STATGROUP_StreamingOverview - STATCAT_Advanced
+         0.000MB  -  Mesh LOD Bytes Resident - STAT_StreamingOverview14_ResidentMeshMem - STATGROUP_StreamingOverview - STATCAT_Advanced
+         0.000MB  -  Mesh LOD Bytes Streamable - STAT_StreamingOverview13_StreamedMeshMem - STATGROUP_StreamingOverview - STATCAT_Advanced
+        17.655MB  -  Average Required PoolSize - STAT_StreamingOverview08_AverageRequiredPool - STATGROUP_StreamingOverview - STATCAT_Advanced
+         0.839MB  -  UI Group - STAT_StreamingOverview07_UIGroup - STATGROUP_StreamingOverview - STATCAT_Advanced
+         5.193MB  -  NeverStream - STAT_StreamingOverview06_NeverStream - STATGROUP_StreamingOverview - STATCAT_Advanced
+        14.331MB  -  Unstreambale Render Assets - STAT_StreamingOverview05_UnstreamableRenderAssets - STATGROUP_StreamingOverview - STATCAT_Advanced
+         0.000MB  -  Streaming Overbudget - STAT_StreamingOverview04_StreamingOverbudget - STATGROUP_StreamingOverview - STATCAT_Advanced
+         0.141MB  -  Cached - STAT_StreamingOverview03_Cached - STATGROUP_StreamingOverview - STATCAT_Advanced
+         2.912MB  -  Required - STAT_StreamingOverview02_Required - STATGROUP_StreamingOverview - STATCAT_Advanced
+         3.053MB  -  Streamable Render Assets - STAT_StreamingOverview01_StreamableRenderAssets - STATGROUP_StreamingOverview - STATCAT_Advanced
+         0.000MB  -  IO Bandwidth - STAT_Streaming14_MipIOBandwidth - STATGROUP_Streaming - STATCAT_Advanced
+         0.000MB  -  Inflight Requests - STAT_Streaming13_InflightRequests - STATGROUP_Streaming - STATCAT_Advanced
+         2.912MB  -  Wanted Mips - STAT_Streaming12_WantedMips - STATGROUP_Streaming - STATCAT_Advanced
+         0.141MB  -  Cached Mips - STAT_Streaming11_CachedMips - STATGROUP_Streaming - STATCAT_Advanced
+         0.048MB  -  UnkownRef Mips - STAT_Streaming09_UnkownRefMips - STATGROUP_Streaming - STATCAT_Advanced
+         2.692MB  -  Forced Mips - STAT_Streaming08_ForcedMips - STATGROUP_Streaming - STATCAT_Advanced
+         0.000MB  -  Hidden Mips - STAT_Streaming07_HiddenMips - STATGROUP_Streaming - STATCAT_Advanced
+         0.172MB  -  Visible Mips - STAT_Streaming06_VisibleMips - STATGROUP_Streaming - STATCAT_Advanced
+         2.912MB  -  Required Pool - STAT_Streaming05_RequiredPool - STATGROUP_Streaming - STATCAT_Advanced
+        14.331MB  -  NonStreaming Mips - STAT_Streaming04_NonStreamingMips - STATGROUP_Streaming - STATCAT_Advanced
+       780.229MB  -  Streaming Pool - STAT_Streaming03_StreamingPool - STATGROUP_Streaming - STATCAT_Advanced
+        50.000MB  -  Temporary Pool - STAT_Streaming02_TemporaryPool - STATGROUP_Streaming - STATCAT_Advanced
+         5.000MB  -  Safety Pool - STAT_Streaming01_SafetyPool - STATGROUP_Streaming - STATCAT_Advanced
+         0.000MB  -  Streaming Memory Requested - STAT_NaniteCoarseMeshStreamingMeshMemoryRequested - STATGROUP_NaniteCoarseMeshStreaming - STATCAT_Advanced
+         0.000MB  -  Streaming Memory Used - STAT_NaniteCoarseMeshStreamingMeshMemoryUsed - STATGROUP_NaniteCoarseMeshStreaming - STATCAT_Advanced
+         0.000MB  -  Total Memory - STAT_NaniteCoarseMeshTotalMemory - STATGROUP_NaniteCoarseMeshStreaming - STATCAT_Advanced
+         0.000MB  -  NonStreaming - STAT_NaniteCoarseMeshMemoryNonStreaming - STATGROUP_NaniteCoarseMeshStreaming - STATCAT_Advanced
+         0.000MB  -  DynUntracked Mem - STAT_DynamicUntrackedGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  DynAnimTrail GT Mem - STAT_DynamicAnimTrailGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  DynRibbon GT Mem - STAT_DynamicRibbonGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  DynBeam GT Mem - STAT_DynamicBeamGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  DynMesh GT Mem - STAT_DynamicMeshGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  DynSubUV GT Mem - STAT_DynamicSubUVGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  DynSprite GT Mem - STAT_DynamicSpriteGTMem - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  Ptcls Data GT Mem - STAT_GTParticleData - STATGROUP_ParticleMem - STATCAT_Advanced
+         0.000MB  -  Volumetric Lightmap - STAT_VolumetricLightmapBuildData - STATGROUP_MapBuildData - STATCAT_Advanced
+         0.000MB  -  Precomputed Light Volume - STAT_PrecomputedLightVolumeBuildData - STATGROUP_MapBuildData - STATCAT_Advanced
+         0.000MB  -  Reflection Captures - STAT_ReflectionCaptureBuildData - STATGROUP_MapBuildData - STATCAT_Advanced
+         0.000MB  -  Stationary Light Static Shadowmap - STAT_StationaryLightBuildData - STATGROUP_MapBuildData - STATCAT_Advanced
+         0.000MB  -  Intermediate buffer for Recompute Tangents - STAT_GPUSkinCache_TangentsIntermediateMemUsed - STATGROUP_GPUSkinCache - STATCAT_Advanced
+         0.000MB  -  Total Memory Bytes Used - STAT_GPUSkinCache_TotalMemUsed - STATGROUP_GPUSkinCache - STATCAT_Advanced
+         0.118MB  -  StaticMesh Index Memory - STAT_StaticMeshIndexMemory - STATGROUP_MemoryStaticMesh - STATCAT_Advanced
+         0.000MB  -  StaticMesh VxColor Resource Mem - STAT_ResourceVertexColorMemory - STATGROUP_MemoryStaticMesh - STATCAT_Advanced
+         0.069MB  -  StaticMesh Vertex Memory - STAT_StaticMeshVertexMemory - STATGROUP_MemoryStaticMesh - STATCAT_Advanced
+         0.125MB  -  StaticMesh Total Memory - STAT_StaticMeshTotalMemory2 - STATGROUP_MemoryStaticMesh - STATCAT_Advanced
+         0.000MB  -  StaticMesh PreCulled Index Memory - STAT_StaticMeshPreCulledIndexMemory - STATGROUP_MemoryStaticMesh - STATCAT_Advanced
+         0.000MB  -  StaticMesh VxColor Inst Mem - STAT_InstVertexColorMemory - STATGROUP_MemoryStaticMesh - STATCAT_Advanced
+         0.000MB  -  Audio Memory Used - STAT_AudioMemorySize - STATGROUP_Audio - STATCAT_Advanced
+         0.000MB  -  Detour Tile Poly CLusters Memory - STAT_DetourTilePolyClustersMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Poly CLusters Memory - STAT_DetourTileClustersMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Off Mesh Segs Memory - STAT_DetourTileOffMeshSegsMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Off Mesh Cons Memory - STAT_DetourTileOffMeshConsMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile BV Tree Memory - STAT_DetourTileBVTreeMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Detail Tris Memory - STAT_DetourTileDetailTrisMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Detail Verts Memory - STAT_DetourTileDetailVertsMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Detail Meshes Memory - STAT_DetourTileDetailMeshesMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Links Memory - STAT_DetourTileLinksMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Nav Polys Memory - STAT_DetourTileNavPolysMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Nav Verts Memory - STAT_DetourTileNavVertsMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Mesh Header Memory - STAT_DetourTileMeshHeaderMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour Tile Memory - STAT_DetourTileMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_TILES - STAT_Navigation_DetourPERM_TILES - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_TILE_DYNLINK_CLUSTER - STAT_Navigation_DetourPERM_TILE_DYNLINK_CLUSTER - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_TILE_DYNLINK_OFFMESH - STAT_Navigation_DetourPERM_TILE_DYNLINK_OFFMESH - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_TILE_DATA - STAT_Navigation_DetourPERM_TILE_DATA - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_PROXY_GRID - STAT_Navigation_DetourPERM_PROXY_GRID - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_PATH_QUEUE - STAT_Navigation_DetourPERM_PATH_QUEUE - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_PATH_CORRIDOR - STAT_Navigation_DetourPERM_PATH_CORRIDOR - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_NODE_POOL - STAT_Navigation_DetourPERM_NODE_POOL - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_NAVMESH - STAT_Navigation_DetourPERM_NAVMESH - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_NAVQUERY - STAT_Navigation_DetourPERM_NAVQUERY - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_LOOKUP - STAT_Navigation_DetourPERM_LOOKUP - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM_CROWD - STAT_Navigation_DetourPERM_CROWD - STATGROUP_Navigation - STATCAT_Advanced
+         0.156MB  -  Detour PERM_AVOIDANCE - STAT_Navigation_DetourPERM_AVOIDANCE - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour PERM - STAT_Navigation_DetourPERM - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Detour TEMP - STAT_Navigation_DetourTEMP - STATGROUP_Navigation - STATCAT_Advanced
+         0.156MB  -  Recast memory - STAT_Navigation_RecastMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Tile cache memory - STAT_Navigation_TileCacheMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Nav data memory - STAT_Navigation_NavDataMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  Nav tree memory - STAT_Navigation_CollisionTreeMemory - STATGROUP_Navigation - STATCAT_Advanced
+         0.000MB  -  PakCache Signing Chunk Hash Size - STAT_PakCache_SigningChunkHashSize - STATGROUP_PakFile - STATCAT_Advanced
+         0.000MB  -  Instance Buffers - STAT_FoliageInstanceBuffers - STATGROUP_Foliage - STATCAT_Advanced
+         0.000MB  -  Total CPU Upload Memory - STAT_TotalCPUUploadSize - STATGROUP_VirtualTextureMemory - STATCAT_Advanced
+         0.000MB  -  Total GPU Upload Memory - STAT_TotalGPUUploadSize - STATGROUP_VirtualTextureMemory - STATCAT_Advanced
+         0.000MB  -  Total Header Size - STAT_TotalHeaderSize - STATGROUP_VirtualTextureMemory - STATCAT_Advanced
+         0.000MB  -  File Cache Size - STAT_FileCacheSize - STATGROUP_VirtualTextureMemory - STATCAT_Advanced
+         0.000MB  -  Total Pagetable Memory - STAT_TotalPagetableMemory - STATGROUP_VirtualTextureMemory - STATCAT_Advanced
+         0.000MB  -  Total Physical Memory - STAT_TotalPhysicalMemory - STATGROUP_VirtualTextureMemory - STATCAT_Advanced
+         0.000MB  -  Nanite Proxy Instance Memory - STAT_ProxyInstanceMemory - STATGROUP_Nanite - STATCAT_Advanced
+         0.776MB  -  Shader Preload Mem - STAT_Shaders_ShaderPreloadMemory - STATGROUP_Shaders - STATCAT_Advanced
+         0.134MB  -  Shader Resource Mem - STAT_Shaders_ShaderResourceMemory - STATGROUP_Shaders - STATCAT_Advanced
+         0.515MB  -  Shader Memory - STAT_Shaders_ShaderMemory - STATGROUP_Shaders - STATCAT_Advanced
+         0.160MB  -  Builder Watermark - STAT_RDG_MemoryWatermark - STATGROUP_RDG - STATCAT_Advanced
+        32.625MB  -  Pool Used - STAT_RenderTargetPoolUsed - STATGROUP_RenderTargetPool - STATCAT_Advanced
+        50.994MB  -  Pool Size - STAT_RenderTargetPoolSize - STATGROUP_RenderTargetPool - STATCAT_Advanced
+         0.000MB  -  Cached Shadowmaps - STAT_CachedShadowmapMemory - STATGROUP_ShadowRendering - STATCAT_Advanced
+        32.000MB  -  Per-Frame Shadowmap Atlases - STAT_ShadowmapAtlasMemory - STATGROUP_ShadowRendering - STATCAT_Advanced
+         0.000MB  -  Light interaction memory - STAT_LightInteractionMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+         0.011MB  -  ViewState memory - STAT_ViewStateMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+         0.022MB  -  Scene memory - STAT_RenderingSceneMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+         0.009MB  -  Primitive memory - STAT_PrimitiveInfoMemory - STATGROUP_SceneMemory - STATCAT_Advanced
+         0.000MB  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.502MB  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.000MB  -  Ray Tracing Acceleration Structure memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+         1.165MB  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.591MB  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.259MB  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         1.060MB  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+         0.261MB  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+        16.025MB  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+         2.062MB  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+         0.000MB  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+       110.078MB  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+         0.000MB  -  Pre-Compile Memory - STAT_PreCompileMemory - STATGROUP_PipelineStateCache - STATCAT_Advanced
+         0.000MB  -  File Cache - STAT_FileCacheMemory - STATGROUP_PipelineStateCache - STATCAT_Advanced
+         0.002MB  -  PSO Stat - STAT_PSOStatMemory - STATGROUP_PipelineStateCache - STATCAT_Advanced
+         0.018MB  -  New Cached PSO - STAT_NewCachedPSOMemory - STATGROUP_PipelineStateCache - STATCAT_Advanced
+         0.000MB  -  Relocating Memory - STAT_TexturePool_RelocatedSize - STATGROUP_TexturePool - STATCAT_Advanced
+         0.000MB  -  Largest Hole - STAT_TexturePool_LargestHole - STATGROUP_TexturePool - STATCAT_Advanced
+         0.000MB  -  Free - STAT_TexturePool_Free - STATGROUP_TexturePool - STATCAT_Advanced
+         0.000MB  -  Allocated - STAT_TexturePool_Allocated - STATGROUP_TexturePool - STATCAT_Advanced
+         0.000MB  -  PostProcess RenderTargets - STAT_SLATEPPRenderTargetMem - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.008MB  -  Vertex Buffer Memory (GPU) - STAT_SlateVertexBufferMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  Index Buffer Memory (GPU) - STAT_SlateIndexBufferMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.081MB  -  SWidget Total Allocated Size - STAT_SlateSWidgetAllocSize - STATGROUP_SlateMemory - STATCAT_Advanced
+         1.000MB  -  Texture Atlas Memory (CPU) - STAT_SlateTextureAtlasMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  Texture Data Memory (CPU) - STAT_SlateTextureDataMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         6.564MB  -  Texture Data Memory (GPU) - STAT_SlateTextureGPUMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  FSlateWindowElementList MemManager - STAT_FSlateWindowElementListMemManager - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  Cached Draw Element Memory (CPU) - STAT_SlateCachedDrawElementMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  Vertex/Index Buffer Pool Memory (CPU) - STAT_SlateBufferPoolMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.035MB  -  FreeType Total Allocated Memory - STAT_SlateFreetypeAllocatedMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  Font Measure Memory - STAT_SlateFontMeasureCacheMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.001MB  -  Shaped Glyph Sequence Memory - STAT_SlateShapedGlyphSequenceMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         0.000MB  -  Font BulkData Memory - STAT_SlateBulkFontDataMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         4.219MB  -  Resident Font Memory (TTF/OTF) - STAT_SlateRawFontDataMemory - STATGROUP_SlateMemory - STATCAT_Advanced
+         2.918MB  -  NameTable Memory Size - STAT_NameTableMemorySize - STATGROUP_Object - STATCAT_Advanced
+         0.000MB  -  Memory Operation Sequence Tag - STAT_Memory_OperationSequenceTag - STATGROUP_MemoryProfiler - STATCAT_Advanced
+         0.000MB  -  Memory Alloc Size - STAT_Memory_AllocSize - STATGROUP_MemoryProfiler - STATCAT_Advanced
+         0.000MB  -  Profiler FreePtr - STAT_Memory_FreePtr_Mem - STATGROUP_StatSystem - STATCAT_Advanced
+         0.000MB  -  Profiler AllocPtr - STAT_Memory_AllocPtr_Mem - STATGROUP_StatSystem - STATCAT_Advanced
+         0.090MB  -  Stat Messages - STAT_StatMessagesMemory - STATGROUP_StatSystem - STATCAT_Advanced
+         0.255MB  -  Stats Descriptions - STAT_StatDescMemory - STATGROUP_StatSystem - STATCAT_Advanced
+         0.000MB  -  Sent - STAT_TraceSent - STATGROUP_Trace - STATCAT_Advanced
+         0.001MB  -  Important event cache waste - STAT_TraceCacheWaste - STATGROUP_Trace - STATCAT_Advanced
+         0.084MB  -  Important event cache used - STAT_TraceCacheUsed - STATGROUP_Trace - STATCAT_Advanced
+         0.126MB  -  Important event cache - STAT_TraceCacheAllocated - STATGROUP_Trace - STATCAT_Advanced
+         4.190MB  -  Memory used - STAT_TraceMemoryUsed - STATGROUP_Trace - STATCAT_Advanced
+         0.000MB  -  Binned Slack Current - STAT_Binned_SlackCurrent - STATGROUP_MemoryAllocator - STATCAT_Advanced
+         0.000MB  -  Binned Used Peak - STAT_Binned_UsedPeak - STATGROUP_MemoryAllocator - STATCAT_Advanced
+         0.000MB  -  Binned Used Current - STAT_Binned_UsedCurrent - STATGROUP_MemoryAllocator - STATCAT_Advanced
+         0.000MB  -  Binned Waste Peak - STAT_Binned_WastePeak - STATGROUP_MemoryAllocator - STATCAT_Advanced
+         0.000MB  -  Binned Waste Current - STAT_Binned_WasteCurrent - STATGROUP_MemoryAllocator - STATCAT_Advanced
+         0.000MB  -  Binned Os Peak - STAT_Binned_OsPeak - STATGROUP_MemoryAllocator - STATCAT_Advanced
+         0.000MB  -  Binned Os Current - STAT_Binned_OsCurrent - STATGROUP_MemoryAllocator - STATCAT_Advanced
+        10.356MB  -  LLM Overhead - STAT_LLMOverheadTotal - STATGROUP_LLMOverhead - STATCAT_Advanced
+      8584.637MB  -  Peak Used Virtual - STAT_PeakUsedVirtual - STATGROUP_MemoryPlatform - STATCAT_Advanced
+      8546.578MB  -  Used Virtual - STAT_UsedVirtual - STATGROUP_MemoryPlatform - STATCAT_Advanced
+       517.430MB  -  Peak Used Physical - STAT_PeakUsedPhysical - STATGROUP_MemoryPlatform - STATCAT_Advanced
+       517.430MB  -  Used Physical - STAT_UsedPhysical - STATGROUP_MemoryPlatform - STATCAT_Advanced
+      2728.391MB  -  Available Virtual - STAT_AvailableVirtual - STATGROUP_MemoryPlatform - STATCAT_Advanced
+      3187.043MB  -  Available Physical - STAT_AvailablePhysical - STATGROUP_MemoryPlatform - STATCAT_Advanced
+         0.000MB  -  Total Physical GB - STAT_TotalPhysicalGB - STATGROUP_MemoryPlatform - STATCAT_Advanced
+         0.004MB  -  Page Size - STAT_PageSize - STATGROUP_MemoryPlatform - STATCAT_Advanced
+      8191.996MB  -  Total Virtual - STAT_TotalVirtual - STATGROUP_MemoryPlatform - STATCAT_Advanced
+     11197.547MB  -  Total Physical - STAT_TotalPhysical - STATGROUP_MemoryPlatform - STATCAT_Advanced
+         0.125MB  -  StaticMesh Total Memory - STAT_StaticMeshTotalMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  BPComp Instancing Fast Path memory - STAT_BPCompInstancingFastPathMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Persistent Uber Graph Frame memory - STAT_PersistentUberGraphFrameMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  PakCache High Water - STAT_PakCacheHighWater - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  PakCache Current - STAT_PakCacheMem - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  FAsyncArchive Buffers - STAT_FAsyncArchiveMem - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Streaming Memory Used - STAT_StreamingAllocSize - STATGROUP_Memory - STATCAT_Advanced
+         0.750MB  -  PageAllocator Used - STAT_PageAllocatorUsed - STATGROUP_Memory - STATCAT_Advanced
+         0.438MB  -  PageAllocator Free - STAT_PageAllocatorFree - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  MemStack Large Block - STAT_MemStackLargeBLock - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Reflection Capture Memory - STAT_ReflectionCaptureMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Reflection Capture Texture Memory - STAT_ReflectionCaptureTextureMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.165MB  -  Navigation Memory - STAT_NavigationMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  PixelShader Memory - STAT_PixelShaderMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  VertexShader Memory - STAT_VertexShaderMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  SkeletalMesh M.BlurSkinning Memory - STAT_SkeletalMeshMotionBlurSkinningMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  SkeletalMesh Index Memory - STAT_SkeletalMeshIndexMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  SkeletalMesh Vertex Memory - STAT_SkeletalMeshVertexMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Precomputed Visibility Memory - STAT_PrecomputedVisibilityMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.808MB  -  ICU Data File Memory Used - STAT_MemoryICUDataFileAllocationSize - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  ICU Memory Used - STAT_MemoryICUTotalAllocationSize - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  PhysX Memory Used - STAT_MemoryPhysXTotalAllocationSize - STATGROUP_Memory - STATCAT_Advanced
+         9.400MB  -  Texture Memory Used - STAT_TextureMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Audio Memory Used - STAT_AudioMemory - STATGROUP_Memory - STATCAT_Advanced
+         2.912MB  -  Used Streaming Pool [Wanted] - MCR_UsedStreamingPool - STATGROUP_Memory - STATCAT_Advanced
+       780.229MB  -  Streaming Texture Pool [Streaming] - MCR_StreamingPool - STATGROUP_Memory - STATCAT_Advanced
+       800.000MB  -  Texture Memory Pool [Texture] - MCR_TexturePool - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  GPU Memory Pool [GPU] - MCR_GPU - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Total Physical Memory Pool (CPU + GPU) [PhysicalLLM] - MCR_PhysicalLLM - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Physical Memory Pool [Physical] - MCR_Physical - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Mapped File Handle Memory - STAT_MappedFileMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Async File Handle Memory - STAT_AsyncFileMemory - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Lock Free List Links - STAT_LockFreeListLinks - STATGROUP_Memory - STATCAT_Advanced
+         0.000MB  -  Frame Temp Memory - STAT_VulkanTempFrameAllocationBuffer - STATGROUP_VulkanRHI - STATCAT_Advanced
+         0.000MB  -  _Total - STAT_VulkanAllocation_Allocated - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  BufferOther - STAT_VulkanAllocation_BufferOther - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  BufferStaging - STAT_VulkanAllocation_BufferStaging - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  BufferUAV - STAT_VulkanAllocation_BufferUAV - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  ImageOther - STAT_VulkanAllocation_ImageOther - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  ImageRenderTarget - STAT_VulkanAllocation_ImageRenderTarget - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  FrameTempBuffer - STAT_VulkanAllocation_FrameTempBuffer - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  RingBuffer - STAT_VulkanAllocation_RingBuffer - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  MultiBuffer - STAT_VulkanAllocation_MultiBuffer - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  UniformBuffer - STAT_VulkanAllocation_UniformBuffer - STATGROUP_VulkanMemory - STATCAT_Advanced
+         0.000MB  -  Memory Heap 5 Usage - STAT_VulkanMemoryUsage5 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 4 Usage - STAT_VulkanMemoryUsage4 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 3 Usage - STAT_VulkanMemoryUsage3 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 2 Usage - STAT_VulkanMemoryUsage2 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 1 Usage - STAT_VulkanMemoryUsage1 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 0 Usage - STAT_VulkanMemoryUsage0 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap (remaining) Budget - STAT_VulkanMemoryBudgetX - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 5 Budget - STAT_VulkanMemoryBudget5 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 4 Budget - STAT_VulkanMemoryBudget4 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 3 Budget - STAT_VulkanMemoryBudget3 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 2 Budget - STAT_VulkanMemoryBudget2 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 1 Budget - STAT_VulkanMemoryBudget1 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Memory Heap 0 Budget - STAT_VulkanMemoryBudget0 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  _Reserved - STAT_VulkanMemoryReserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  _Total Allocated - STAT_VulkanMemoryTotal - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool (remaining) Reserved - STAT_VulkanMemoryXReserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 5 Reserved - STAT_VulkanMemory5Reserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 4 Reserved - STAT_VulkanMemory4Reserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 3 Reserved - STAT_VulkanMemory3Reserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 2 Reserved - STAT_VulkanMemory2Reserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 1 Reserved - STAT_VulkanMemory1Reserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 0 Reserved - STAT_VulkanMemory0Reserved - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool (remaining) - STAT_VulkanMemoryX - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 5 - STAT_VulkanMemory5 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 4 - STAT_VulkanMemory4 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 3 - STAT_VulkanMemory3 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 2 - STAT_VulkanMemory2 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 1 - STAT_VulkanMemory1 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  MemoryPool 0 - STAT_VulkanMemory0 - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Dedicated Memory - STAT_VulkanDedicatedMemory - STATGROUP_VulkanMemoryRaw - STATCAT_Advanced
+         0.000MB  -  Resident Chunks - STAT_ChunkDataResident - STATGROUP_GeometryCache - STATCAT_Advanced
+         0.000MB  -  Streamed Chunks - STAT_ChunkDataStreamed - STATGROUP_GeometryCache - STATCAT_Advanced
+         0.000MB  -  IO Bandwidth - STAT_IOBandwidth - STATGROUP_GeometryCache - STATCAT_Advanced
+         0.000MB  -  Niagara parameter store memory - STAT_NiagaraParamStoreMemory - STATGROUP_Niagara - STATCAT_Advanced
+         0.000MB  -  Niagara RenderTarget memory - STAT_NiagaraRenderTargetMemory - STATGROUP_Niagara - STATCAT_Advanced
+         0.000MB  -  Niagara vertex buffer memory - STAT_NiagaraVBMemory - STATGROUP_Niagara - STATCAT_Advanced
+         0.000MB  -  Niagara GPU data interface memory - STAT_NiagaraGPUDataInterfaceMemory - STATGROUP_Niagara - STATCAT_Advanced
+         0.000MB  -  Niagara GPU particle data memory - STAT_NiagaraGPUParticleMemory - STATGROUP_Niagara - STATCAT_Advanced
+         0.000MB  -  Niagara particle data memory - STAT_NiagaraParticleMemory - STATGROUP_Niagara - STATCAT_Advanced
+         0.000MB  -  AllTrailingsIndicesByPhysicsProxy - STAT_AllTrailingsIndicesByPhysicsProxyMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  AllTrailingsData - STAT_AllTrailingsDataMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  AllBreakingsIndicesByPhysicsProxy - STAT_AllBreakingsIndicesByPhysicsProxyMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  AllBreakingsData - STAT_AllBreakingsDataMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  AllCollisionsIndicesByPhysicsProxy - STAT_AllCollisionsIndicesByPhysicsProxyMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  AllCollisionsData - STAT_AllCollisionsDataMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  ParticleIndexReverseMapping - STAT_ParticleIndexReverseMappingMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  PhysicsProxyReverseMapping - STAT_PhysicsProxyReverseMappingMemory - STATGROUP_ChaosNiagara - STATCAT_Advanced
+         0.000MB  -  Oodle State Bytes - STAT_Oodle_StateBytes - STATGROUP_OodleNetwork - STATCAT_Advanced
+         0.000MB  -  Oodle Shared Bytes - STAT_Oodle_SharedBytes - STATGROUP_OodleNetwork - STATCAT_Advanced
+         0.000MB  -  Oodle Dictionary Bytes - STAT_Oodle_DictionaryBytes - STATGROUP_OodleNetwork - STATCAT_Advanced
+         0.000MB  -  Container Element Cache Memory - STAT_UnLua_ContainerElementCache_Memory - STATGROUP_UnLua - STATCAT_Advanced
+         0.000MB  -  OutParmRec Memory - STAT_UnLua_OutParmRec_Memory - STATGROUP_UnLua - STATCAT_Advanced
+         0.000MB  -  Persistent Parameter Buffer Memory - STAT_UnLua_PersistentParamBuffer_Memory - STATGROUP_UnLua - STATCAT_Advanced
+         0.147MB  -  Lua Memory - STAT_UnLua_Lua_Memory - STATGROUP_UnLua - STATCAT_Advanced
+         0.000MB  -  VulkanDriverMemoryGPU - STAT_VulkanDriverMemoryGPULLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanDriverMemoryCPU - STAT_VulkanDriverMemoryCPULLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanStagingBuffers - STAT_VulkanStagingBuffersLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanFrameTemp - STAT_VulkanFrameTempLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanShaders - STAT_VulkanShadersLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanSpareMemoryGPU - STAT_VulkanSpareMemoryGPULLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanRenderTargets - STAT_VulkanRenderTargetsLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanTextures - STAT_VulkanTexturesLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanVertexBuffers - STAT_VulkanVertexBuffersLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanIndexBuffers - STAT_VulkanIndexBuffersLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanUniformBuffers - STAT_VulkanUniformBuffersLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VulkanMisc - STAT_VulkanMiscLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  VirtualMemory - STAT_PlatformVMLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  MMIO - STAT_PlatformMMIOLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Graphics - STAT_GraphicsPlatformLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  GenericPlatformMallocCrash - STAT_GenericPlatformMallocCrashPlatformLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  OOM Backup Pool - STAT_OOMBackupPoolPlatformLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Program Size - STAT_ProgramSizePlatformLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  ThreadStackPlatform - STAT_ThreadStackPlatformLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  FMalloc - STAT_FMallocLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  OS Available - STAT_PlatformOSAvailableLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Overhead - STAT_PlatformOverheadLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Untracked - STAT_PlatformUntrackedLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Untagged - STAT_PlatformUntaggedTotalLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Tracked Total - STAT_PlatformTrackedTotalLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Total - STAT_PlatformTotalLLM - STATGROUP_LLMPlatform - STATCAT_Advanced
+         0.000MB  -  Nanite - STAT_NaniteSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  AssetCompilation - STAT_AssetCompilationSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Lumen - STAT_LumenSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  GPUScene - STAT_GPUSceneSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  DistanceFields - STAT_DistanceFieldsSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Project - STAT_ProjectSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  MediaStreaming - STAT_MediaStreamingSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Chaos - STAT_ChaosSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  PhysX - STAT_PhysXSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Physics - STAT_PhysicsSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Navigation - STAT_NavigationSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  UI - STAT_UISummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Niagara - STAT_NiagaraSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Particles - STAT_ParticlesSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Materials - STAT_MaterialsSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  StaticMesh - STAT_StaticMeshSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Animation - STAT_AnimationSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  UObject - STAT_UObjectSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Textures - STAT_TexturesSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Meshes - STAT_MeshesSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Networking - STAT_NetworkingSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Audio - STAT_AudioSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Engine - STAT_EngineSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  Total - STAT_TrackedTotalSummaryLLM - STATGROUP_LLM - STATCAT_Advanced
+         0.000MB  -  AudioAnalysis - STAT_AudioAnalysisLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  RHI Transient Resources - STAT_RHITransientResourcesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Nanite - STAT_NaniteLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  GuidCache - STAT_GuidCacheLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  NetDriver - STAT_NetDriverLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  NetConnection - STAT_NetConnectionLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  NetObjReplicator - STAT_NetObjReplicatorLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  NetChannel - STAT_NetChannelLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AssetCompilation - STAT_AssetCompilationLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  IrisConnection - STAT_IrisConnectionLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  IrisState - STAT_IrisStateLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Iris - STAT_IrisLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioSpatializationPlugins - STAT_AudioSpatializationPluginsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Lumen - STAT_LumenLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  GPUScene - STAT_GPUSceneLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  DistanceFields - STAT_DistanceFieldsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UI_Style - STAT_UI_StyleLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UI_Texture - STAT_UI_TextureLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UI_Text - STAT_UI_TextLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UI_UMG - STAT_UI_UMGLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UI_Slate - STAT_UI_SlateLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysX ConvexMesh - STAT_PhysXConvexMeshLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  MetaSound - STAT_MetaSoundLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  CustomName - STAT_CustomName - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  WMFPlayer - STAT_WMFPlayerLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ElectraPlayer - STAT_ElectraPlayerLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  MediaStreaming - STAT_MediaStreamingLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  CsvProfiler - STAT_CsvProfilerLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Landscape - STAT_LandscapeLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  InstancedMesh - STAT_InstancedMeshLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  SkeletalMesh - STAT_SkeletalMeshLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  MaterialInstance - STAT_MaterialInstanceLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Replays - STAT_ReplaysLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  VideoRecording - STAT_VideoRecordingLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  InitUObject - STAT_InitUObjectLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ConfigSystem - STAT_ConfigSystemLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AssetRegistry - STAT_AssetRegistryLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Localization - STAT_LocalizationLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  FileSystem - STAT_FileSystemLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  StreamingManager - STAT_StreamingManagerLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  LoadMap Misc - STAT_LoadMapMiscLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Rendering Thread - STAT_RenderingThreadLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  EngineInit - STAT_EngineInitLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  EnginePreInit - STAT_EnginePreInitLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosMaterial - STAT_ChaosMaterialLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosConstraint - STAT_ChaosConstraintLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosBody - STAT_ChaosBodyLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosActor - STAT_ChaosActorLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosUpdate - STAT_ChaosUpdateLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosScene - STAT_ChaosSceneLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosConvex - STAT_ChaosConvexLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosTrimesh - STAT_ChaosTrimeshLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosLandscape - STAT_ChaosLandscapeLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosParticles - STAT_ChaosParticlesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosAcceleration - STAT_ChaosAccelerationLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ChaosGeometry - STAT_ChaosGeometryLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Chaos - STAT_ChaosLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysXLandscape - STAT_PhysXLandscapeLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysXAllocator - STAT_PhysXAllocatorLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysXConvex - STAT_PhysXConvexLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysXTrimesh - STAT_PhysXTrimeshLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysXGeometry - STAT_PhysXGeometryLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PhysX - STAT_PhysXLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Physics - STAT_PhysicsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  NavigationRecast - STAT_NavigationRecastLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UI - STAT_UILLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  GC - STAT_GCLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  GPUSort - STAT_GPUSortLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Niagara - STAT_NiagaraLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Particles - STAT_ParticlesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Materials - STAT_MaterialsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  StaticMesh - STAT_StaticMeshLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Animation - STAT_AnimationLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  UObject - STAT_UObjectLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AsyncLoading - STAT_AsyncLoadingLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  RHIMisc - STAT_RHIMiscLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  SceneRender - STAT_SceneRenderLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Render Targets - STAT_RenderTargetsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  VirtualTextureSystem - STAT_VirtualTextureSystemLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  TextureMetaData - STAT_TextureMetaDataLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Textures - STAT_TexturesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PSO - STAT_PSOLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Shaders - STAT_ShadersLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Stats - STAT_StatsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Meshes - STAT_MeshesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Networking - STAT_NetworkingLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  FName - STAT_FNameLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  RealTimeCommunications - STAT_RealTimeCommunicationsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioSynthesis - STAT_AudioSynthesisLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioStreamCacheCompressedData - STAT_AudioStreamCacheCompressedDataLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioStreamCache - STAT_AudioStreamCacheLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioFullDecompress - STAT_AudioFullDecompressLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioRealtimePrecache - STAT_AudioRealtimePrecacheLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioDecompress - STAT_AudioDecompressLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioPrecache - STAT_AudioPrecacheLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioMixerPlugins - STAT_AudioMixerPluginsLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioMixer - STAT_AudioMixerLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioSoundWaveProxies - STAT_AudioSoundWaveProxiesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioSoundWaves - STAT_AudioSoundWavesLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  AudioMisc - STAT_AudioMiscLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Audio - STAT_AudioLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Linear Allocator - STAT_LinearAllocatorLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  TaskGraph Misc Tasks - STAT_TaskGraphTasksMiscLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Engine Misc - STAT_EngineMiscLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  GenericPlatformMallocCrash - STAT_GenericPlatformMallocCrashLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  OOM Backup Pool - STAT_OOMBackupPoolLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Program Size - STAT_ProgramSizeLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  ThreadStack - STAT_ThreadStackLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  FMalloc Unused - STAT_FMallocUnusedLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  PagefileUsed - STAT_PagefileUsedLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  WorkingSetSize - STAT_WorkingSetSizeLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Untagged - STAT_UntaggedTotalLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Tracked Total - STAT_TrackedTotalLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Untracked - STAT_UntrackedLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+         0.000MB  -  Total - STAT_TotalLLM - STATGROUP_LLMFULL - STATCAT_Advanced
+MemReport: End command "Mem FromReport"
+
+MemReport: Begin command "LogCountedInstances"
+MemReport: End command "LogCountedInstances"
+
+MemReport: Begin command "obj list -resourcesizesort"
+Obj List: -resourcesizesort
+Objects:
+
+                                                                                                Class    Count      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                                Class     3066    2188.51    2431.12       0.00            0.00            0.00            0.00
+                                                                                             Function     8415    1840.84    1841.00       0.00            0.00            0.00            0.00
+                                                                                        DeviceProfile      120     673.58    1153.08       0.00            0.00            0.00            0.00
+                                                                                         ScriptStruct     3444     645.75     645.75       0.00            0.00            0.00            0.00
+                                                                                                 Enum     1299     255.32     540.09       0.00            0.00            0.00            0.00
+                                                                                     DelegateFunction      303      66.28      66.28       0.00            0.00            0.00            0.00
+                                                                                              Package      258      38.30      38.30       0.00            0.00            0.00            0.00
+                                                                                            Texture2D       30      20.62      21.09    9417.34            0.00         9417.34            0.00
+                                                                                                 Font        5      15.67      16.95       0.00            0.00            0.00            0.00
+                                                                                  PlayerCameraManager        1      12.70      12.77       0.00            0.00            0.00            0.00
+                                                                                           GameEngine        1       8.98      11.10       0.00            0.00            0.00            0.00
+                                                                                             Material       21      10.22      10.22     340.24          340.24            0.00            0.00
+                                                                               SparseDelegateFunction       40       9.38       9.38       0.00            0.00            0.00            0.00
+                                                                                               Button        6       8.72       8.91       0.00            0.00            0.00            0.00
+                                                                                           StaticMesh        4       7.39       7.53     128.17            2.00            0.00          126.17
+                                                                              MaterialInstanceDynamic        8       5.42       6.86       3.46            3.46            0.00            0.00
+                                                                             MaterialInstanceConstant       10       6.39       6.39      28.92           28.92            0.00            0.00
+                                                                                   NavigationSystemV1        1       5.57       6.02       0.00            0.00            0.00            0.00
+                                                                                  StaticMeshComponent        3       4.99       5.72       3.19            3.19            0.00            0.00
+                                                                                   LineBatchComponent        3       4.34       5.39       2.48            2.48            0.00            0.00
+                                                                                            TextBlock        6       4.78       4.78       0.00            0.00            0.00            0.00
+                                                                                            BodySetup        5       4.59       4.60      30.98           30.98            0.00            0.00
+                                                                                  EnhancedPlayerInput        1       3.16       3.28       0.00            0.00            0.00            0.00
+                                                                                                World        1       2.60       2.84       0.00            0.00            0.00            0.00
+                                                                                     PlayerController        1       2.24       2.77       0.00            0.00            0.00            0.00
+                                                                                        VolumeTexture        4       2.69       2.75     147.06            0.00            0.00          147.06
+                                                                                     MaterialFunction       11       2.61       2.73       0.00            0.00            0.00            0.00
+                                                                                 TypedElementRegistry        1       2.41       2.41       0.00            0.00            0.00            0.00
+                                                                               EnhancedInputComponent        3       1.36       2.34       0.00            0.00            0.00            0.00
+                                                                              BlueprintGeneratedClass        2       2.00       2.05       0.00            0.00            0.00            0.00
+                                                                                       SceneComponent        3       1.97       1.97       0.00            0.00            0.00            0.00
+                                                                                      SphereComponent        1       1.43       1.86       0.01            0.01            0.00            0.00
+                                                                                               Canvas        2       1.78       1.78       0.00            0.00            0.00            0.00
+                                                                                       BrushComponent        1       1.47       1.75       0.00            0.00            0.00            0.00
+                                                                                            EoneImage        2       1.72       1.72       0.00            0.00            0.00            0.00
+                                                                                 DeviceProfileManager        1       1.16       1.67       0.00            0.00            0.00            0.00
+                                                                        WidgetBlueprintGeneratedClass        1       1.18       1.58       0.00            0.00            0.00            0.00
+                                                                                               Border        2       1.55       1.56       0.00            0.00            0.00            0.00
+                                                                   GameplayDebuggerRenderingComponent        1       1.53       1.53       0.00            0.00            0.00            0.00
+                                                                                          SoundSubmix        3       1.37       1.38       0.00            0.00            0.00            0.00
+                                                                                                Image        2       1.34       1.34       0.00            0.00            0.00            0.00
+                                                                                      StaticMeshActor        2       1.34       1.34       0.00            0.00            0.00            0.00
+                                                                                             FontFace        6       1.24       1.33    4164.00         4164.00            0.00            0.00
+                                                                                        WorldSettings        1       1.28       1.30       0.00            0.00            0.00            0.00
+                                                                                                Level        1       1.09       1.29       0.00            0.00            0.00            0.00
+                                                                                         AssetManager        1       1.23       1.23       0.00            0.00            0.00            0.00
+                                                                                      AbstractNavData        1       1.20       1.20       0.00            0.00            0.00            0.00
+                                                                                    SkyLightComponent        1       1.19       1.19       0.00            0.00            0.00            0.00
+                                                                            DirectionalLightComponent        1       1.19       1.19       0.00            0.00            0.00            0.00
+                                                                   GameplayDebuggerCategoryReplicator        1       1.16       1.16       0.00            0.00            0.00            0.00
+                                                                                       InputComponent        2       0.69       1.02       0.00            0.00            0.00            0.00
+                                                                                         NavCollision        4       0.97       0.97       8.11            8.11            0.00            0.00
+                                                                                          PlayerState        1       0.96       0.97       0.00            0.00            0.00            0.00
+                                                                                   GameViewportClient        1       0.93       0.93       0.00            0.00            0.00            0.00
+                                                                                                  HUD        1       0.90       0.91       0.00            0.00            0.00            0.00
+                                                                               SkyAtmosphereComponent        1       0.91       0.91       0.00            0.00            0.00            0.00
+                                                                                          DefaultPawn        1       0.84       0.89       0.00            0.00            0.00            0.00
+                                                                        ExponentialHeightFogComponent        1       0.88       0.88       0.00            0.00            0.00            0.00
+                                                                                         GameModeBase        1       0.84       0.84       0.00            0.00            0.00            0.00
+                                                                                        HorizontalBox        2       0.81       0.83       0.00            0.00            0.00            0.00
+                                                                                          CanvasPanel        2       0.81       0.83       0.00            0.00            0.00            0.00
+                                                                                   GameNetworkManager        1       0.82       0.82       0.00            0.00            0.00            0.00
+                                                                                  GameplayTagsManager        1       0.80       0.80       0.00            0.00            0.00            0.00
+                                                                        GameplayDebuggerPlayerManager        1       0.73       0.80       0.00            0.00            0.00            0.00
+                                                                                      CanvasPanelSlot        6       0.80       0.80       0.00            0.00            0.00            0.00
+                                                                                        GameStateBase        1       0.75       0.77       0.00            0.00            0.00            0.00
+                                                                             VolumetricCloudComponent        1       0.77       0.77       0.00            0.00            0.00            0.00
+                                                                                 DefaultPhysicsVolume        1       0.73       0.73       0.00            0.00            0.00            0.00
+                                                                                    LuaOverridesClass        1       0.65       0.69       0.00            0.00            0.00            0.00
+                                                                                                Actor        1       0.66       0.69       0.00            0.00            0.00            0.00
+                                                                                         StartLevel_C        1       0.68       0.68       0.00            0.00            0.00            0.00
+                                                                                          GameSession        1       0.68       0.68       0.00            0.00            0.00            0.00
+                                                                                             SkyLight        1       0.67       0.67       0.00            0.00            0.00            0.00
+                                                                                          TextureCube        1       0.66       0.67      61.59            0.00           61.59            0.00
+                                                                                     DirectionalLight        1       0.67       0.67       0.00            0.00            0.00            0.00
+                                                                                                Model        1       0.67       0.67       0.00            0.00            0.00            0.00
+                                                                                             MainUI_C        1       0.67       0.67       0.00            0.00            0.00            0.00
+                                                                                 ExponentialHeightFog        1       0.67       0.67       0.00            0.00            0.00            0.00
+                                                                                        SkyAtmosphere        1       0.66       0.66       0.00            0.00            0.00            0.00
+                                                                                      VolumetricCloud        1       0.66       0.66       0.00            0.00            0.00            0.00
+                                                                                 ParticleEventManager        1       0.66       0.66       0.00            0.00            0.00            0.00
+                                                                                          LocalPlayer        1       0.65       0.65       0.00            0.00            0.00            0.00
+                                                                                    HorizontalBoxSlot        6       0.56       0.56       0.00            0.00            0.00            0.00
+                                                                                           ButtonSlot        6       0.56       0.56       0.00            0.00            0.00            0.00
+                                                                        MovieSceneCompiledDataManager        1       0.55       0.55       0.00            0.00            0.00            0.00
+                                                                                           SoundClass        1       0.51       0.51       0.00            0.00            0.00            0.00
+                                                                                      EnvQueryManager        1       0.50       0.50       0.00            0.00            0.00            0.00
+                                                                    EnhancedInputLocalPlayerSubsystem        1       0.47       0.47       0.00            0.00            0.00            0.00
+                                                                              MetaSoundAssetSubsystem        1       0.47       0.47       0.00            0.00            0.00            0.00
+                                                                                         GameInstance        1       0.45       0.47       0.00            0.00            0.00            0.00
+                                                                               LevelInstanceSubsystem        1       0.44       0.44       0.00            0.00            0.00            0.00
+                                                                                 InputDeviceSubsystem        1       0.40       0.40       0.00            0.00            0.00            0.00
+                                                                            OnlineEngineInterfaceImpl        1       0.38       0.38       0.00            0.00            0.00            0.00
+                                                                                   DataLayerSubsystem        1       0.38       0.38       0.00            0.00            0.00            0.00
+                                                                                       TouchInterface        1       0.37       0.37       0.00            0.00            0.00            0.00
+                                                                                          PaperSprite        1       0.37       0.37       0.00            0.00            0.00            0.00
+                                                                                             AISystem        1       0.36       0.36       0.00            0.00            0.00            0.00
+                                                                                 FloatingPawnMovement        1       0.36       0.36       0.00            0.00            0.00            0.00
+                                                                                         UnLuaManager        1       0.34       0.34       0.00            0.00            0.00            0.00
+                                                                                         CrowdManager        1       0.34       0.34       0.00            0.00            0.00            0.00
+                                                                                     GameUserSettings        1       0.32       0.32       0.00            0.00            0.00            0.00
+                                                                                 GizmoElementCylinder        1       0.32       0.32       0.00            0.00            0.00            0.00
+                                                                                     GizmoElementCone        1       0.32       0.32       0.00            0.00            0.00            0.00
+                                                                      GameplayDebuggerLocalController        1       0.32       0.32       0.00            0.00            0.00            0.00
+                                                                                  SignificanceManager        1       0.31       0.31       0.00            0.00            0.00            0.00
+                                                                                   AIPerceptionSystem        1       0.30       0.30       0.00            0.00            0.00            0.00
+                                                                                              Console        1       0.30       0.30       0.00            0.00            0.00            0.00
+                                                                                        HLODSubsystem        1       0.29       0.29       0.00            0.00            0.00            0.00
+                                                                     AudioDeviceNotificationSubsystem        1       0.29       0.29       0.00            0.00            0.00            0.00
+                                                                                           WidgetTree        2       0.27       0.27       0.00            0.00            0.00            0.00
+                                                                             SubmixEffectReverbPreset        1       0.27       0.27       0.00            0.00            0.00            0.00
+                                                                                          LuaFunction        1       0.26       0.26       0.00            0.00            0.00            0.00
+                                                                                     LandscapeInfoMap        2       0.25       0.25       0.00            0.00            0.00            0.00
+                                                                                     PhysicalMaterial        2       0.25       0.25       0.00            0.00            0.00            0.00
+                                                                                     AvoidanceManager        1       0.24       0.24       0.00            0.00            0.00            0.00
+                                                                                   LuaDelegateHandler        3       0.21       0.21       0.00            0.00            0.00            0.00
+                                                                           CameraModifier_CameraShake        1       0.20       0.20       0.00            0.00            0.00            0.00
+                                                                                           BorderSlot        2       0.19       0.19       0.00            0.00            0.00            0.00
+                                                                     LevelStreamingProfilingSubsystem        1       0.19       0.19       0.00            0.00            0.00            0.00
+                                                                              WorldPartitionSubsystem        1       0.19       0.19       0.00            0.00            0.00            0.00
+                                                                              ChaosDebugDrawComponent        1       0.18       0.18       0.00            0.00            0.00            0.00
+                                                                                GameViewportSubsystem        1       0.17       0.17       0.00            0.00            0.00            0.00
+                                                                           SubmixEffectSubmixEQPreset        1       0.17       0.17       0.00            0.00            0.00            0.00
+                                                                                 NiagaraComponentPool        1       0.16       0.16       0.00            0.00            0.00            0.00
+                                                                         ContentBundleEngineSubsystem        1       0.16       0.16       0.00            0.00            0.00            0.00
+                                                                                    AudioBusSubsystem        1       0.14       0.14       0.00            0.00            0.00            0.00
+                                                                                 PaperTerrainMaterial        1       0.13       0.14       0.00            0.00            0.00            0.00
+                                                                                         CheatManager        1       0.13       0.13       0.00            0.00            0.00            0.00
+                                                                        MaterialShaderQualitySettings        1       0.12       0.12       0.00            0.00            0.00            0.00
+                                                                                             BookMark        1       0.10       0.10       0.00            0.00            0.00            0.00
+                                                                        CameraAnimationCameraModifier        1       0.09       0.09       0.00            0.00            0.00            0.00
+                                                                                      QuartzSubsystem        1       0.09       0.09       0.00            0.00            0.00            0.00
+                                                                                  NavLocalGridManager        1       0.09       0.09       0.00            0.00            0.00            0.00
+                                                                               NavigationSystemConfig        1       0.09       0.09       0.00            0.00            0.00            0.00
+                                                                        ShaderPlatformQualitySettings        1       0.09       0.09       0.00            0.00            0.00            0.00
+                                                                       AndroidPermissionCallbackProxy        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                                               ViewportStatsSubsystem        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                                                  BehaviorTreeManager        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                           ResonanceAudioSpatializationSourceSettings        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                                                   LandscapeSubsystem        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                                                 AutoDestroySubsystem        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                                               AudioAnalyzerSubsystem        1       0.08       0.08       0.00            0.00            0.00            0.00
+                                                                     CameraAnimationSequenceSubsystem        1       0.07       0.07       0.00            0.00            0.00            0.00
+                                                                           SystemTimeTimecodeProvider        1       0.06       0.06       0.00            0.00            0.00            0.00
+                                                                                      ReplaySubsystem        1       0.06       0.06       0.00            0.00            0.00            0.00
+                                                                            ObjectTraceWorldSubsystem        1       0.06       0.06       0.00            0.00            0.00            0.00
+                                                                        DataDrivenCVarEngineSubsystem        1       0.06       0.06       0.00            0.00            0.00            0.00
+                                                                              PhysicsCollisionHandler        1       0.06       0.06       0.00            0.00            0.00            0.00
+                                                                                   GCObjectReferencer        1       0.06       0.06       0.00            0.00            0.00            0.00
+                                                                                        LuaEnvLocator        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                  SMInstanceElementHierarchyInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                              ActorPartitionSubsystem        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                       ActorElementAssetDataInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                       ComponentElementWorldInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                                  HLODEngineSubsystem        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                     ComponentElementCounterInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                      ComponentElementObjectInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                             GameplayCamerasSubsystem        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                      ObjectElementSelectionInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                   ComponentElementHierarchyInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                                 AudioWidgetSubsystem        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                                   AssetTagsSubsystem        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                  SMInstanceElementAssetDataInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                      ObjectElementAssetDataInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                         ObjectElementObjectInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                       ActorElementSelectionInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                           ActorElementWorldInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                         ActorElementCounterInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                  SMInstanceElementSelectionInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                          ActorElementObjectInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                      SMInstanceElementWorldInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                   ComponentElementSelectionInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                         AudioSubsystemCollectionRoot        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                       ActorElementHierarchyInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                        ObjectElementCounterInterface        1       0.05       0.05       0.00            0.00            0.00            0.00
+                                                                                 EnhancedInputLibrary        1       0.04       0.04       0.00            0.00            0.00            0.00
+                                                                                        OnlineSession        1       0.04       0.04       0.00            0.00            0.00            0.00
+                                                                                     NetworkSubsystem        1       0.00       0.02       0.00            0.00            0.00            0.00
+
+17262 Objects (Total: 5.787M / Max: 6.783M / Res: 14.000M | ResDedSys: 4.476M / ResDedVid: 9.257M / ResUnknown: 0.267M)
+MemReport: End command "obj list -resourcesizesort"
+
+MemReport: Begin command "rhi.DumpMemory"
+RHI resource memory (not tracked by our allocator)
+         0.000MB  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.502MB  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.000MB  -  Ray Tracing Acceleration Structure memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+         1.165MB  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.591MB  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         0.259MB  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+         1.060MB  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+         0.261MB  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+        16.025MB  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+         2.062MB  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+         0.000MB  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+       110.078MB  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+132.004MB total
+MemReport: End command "rhi.DumpMemory"
+
+MemReport: Begin command "rhi.DumpResourceMemory"
+Tracked RHIResources (0 total with info, 1064 total tracked)
+Total tracked resource size: 0.000000000 MB
+MemReport: End command "rhi.DumpResourceMemory"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=Lumen"
+MemReport: End command "rhi.dumpresourcememory summary name=Lumen"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=Nanite"
+MemReport: End command "rhi.dumpresourcememory summary name=Nanite"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=Shadow"
+MemReport: End command "rhi.dumpresourcememory summary name=Shadow"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=DistanceFields"
+MemReport: End command "rhi.dumpresourcememory summary name=DistanceFields"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=GPUScene"
+MemReport: End command "rhi.dumpresourcememory summary name=GPUScene"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=SkinCache"
+MemReport: End command "rhi.dumpresourcememory summary name=SkinCache"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=TangentsRHIBuffer"
+MemReport: End command "rhi.dumpresourcememory summary name=TangentsRHIBuffer"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=IndexBuffer"
+MemReport: End command "rhi.dumpresourcememory summary name=IndexBuffer"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=VertexBuffer"
+MemReport: End command "rhi.dumpresourcememory summary name=VertexBuffer"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=TexCoordRHIBuffer"
+MemReport: End command "rhi.dumpresourcememory summary name=TexCoordRHIBuffer"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=None"
+MemReport: End command "rhi.dumpresourcememory summary name=None"
+
+MemReport: Begin command "rhi.dumpresourcememory summary Type=TextureCube"
+MemReport: End command "rhi.dumpresourcememory summary Type=TextureCube"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=CaptureCube"
+MemReport: End command "rhi.dumpresourcememory summary name=CaptureCube"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=MorphDeltasVB"
+MemReport: End command "rhi.dumpresourcememory summary name=MorphDeltasVB"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=VertexIndicesVB"
+MemReport: End command "rhi.dumpresourcememory summary name=VertexIndicesVB"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=VirtualTexture"
+MemReport: End command "rhi.dumpresourcememory summary name=VirtualTexture"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=VirtualPhysicalTexture"
+MemReport: End command "rhi.dumpresourcememory summary name=VirtualPhysicalTexture"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=VolumetricFog"
+MemReport: End command "rhi.dumpresourcememory summary name=VolumetricFog"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=Hair"
+MemReport: End command "rhi.dumpresourcememory summary name=Hair"
+
+MemReport: Begin command "rhi.dumpresourcememory summary name=Subsurface"
+MemReport: End command "rhi.dumpresourcememory summary name=Subsurface"
+
+MemReport: Begin command "obj list class=SkeletalMesh -resourcesizesort"
+Obj List: class=SkeletalMesh -resourcesizesort
+Objects:
+
+0 Objects (Total: 0.000M / Max: 0.000M / Res: 0.000M | ResDedSys: 0.000M / ResDedVid: 0.000M / ResUnknown: 0.000M)
+MemReport: End command "obj list class=SkeletalMesh -resourcesizesort"
+
+MemReport: Begin command "obj list class=StaticMesh -resourcesizesort"
+Obj List: class=StaticMesh -resourcesizesort
+Objects:
+
+                                                                                                                                      Object      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                      StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere       1.66       1.69     107.68            0.50            0.00          107.18
+                                                                                               StaticMesh /Engine/EngineMeshes/Sphere.Sphere       1.73       1.77      14.66            0.50            0.00           14.16
+                                                                 StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor       2.23       2.28       4.46            0.50            0.00            3.96
+                                                                              StaticMesh /MediaPlate/SM_MediaPlateScreen.SM_MediaPlateScreen       1.77       1.80       1.38            0.50            0.00            0.88
+
+                                                                                                Class    Count      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                           StaticMesh        4       7.39       7.53     128.17            2.00            0.00          126.17
+
+4 Objects (Total: 0.007M / Max: 0.007M / Res: 0.125M | ResDedSys: 0.002M / ResDedVid: 0.000M / ResUnknown: 0.123M)
+MemReport: End command "obj list class=StaticMesh -resourcesizesort"
+
+MemReport: Begin command "listtextures nonvt"
+Listing NONVT textures.
+Cooked/OnDisk: Width x Height (Size in KB, Authored Bias), Current/InMem: Width x Height (Size in KB), Format, LODGroup, Name, Streaming, UnknownRef, VT, Usage Count, NumMips, Uncompressed
+128x8192 (4096 KB, ?), 128x8192 (4096 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/STBlueNoise_vec2_128x128x64.STBlueNoise_vec2_128x128x64, NO, NO, NO, 0, 1, YES
+2048x2048 (2439 KB, ?), 2048x2048 (2439 KB), PF_ASTC_6x6, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Blue.T_Sky_Blue, YES, NO, NO, 0, 12, NO
+128x8192 (1024 KB, ?), 128x8192 (1024 KB), PF_G8, TEXTUREGROUP_World, /Engine/EngineMaterials/STBlueNoise_scalar_128x128x64.STBlueNoise_scalar_128x128x64, NO, NO, NO, 0, 1, YES
+1440x720 (450 KB, ?), 1440x720 (450 KB), PF_ASTC_6x6, TEXTUREGROUP_UI, /Game/img_game_bg_1.img_game_bg_1, NO, NO, NO, 0, 1, NO
+256x256 (256 KB, ?), 256x256 (256 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF, NO, NO, NO, 0, 1, NO
+256x256 (256 KB, ?), 256x256 (256 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/MobileResources/HUD/VirtualJoystick_Background.VirtualJoystick_Background, NO, NO, NO, 0, 1, YES
+512x256 (171 KB, ?), 512x256 (171 KB), PF_G8, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M, YES, NO, NO, 0, 10, YES
+512x512 (155 KB, ?), 512x512 (155 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M, YES, YES, NO, 2, 10, NO
+512x512 (155 KB, ?), 512x512 (155 KB), PF_ASTC_6x6, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Stars.T_Sky_Stars, YES, NO, NO, 0, 10, NO
+512x512 (155 KB, ?), 512x512 (155 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.T_GridChecker_A, YES, NO, NO, 1, 10, NO
+512x256 (128 KB, ?), 512x256 (128 KB), PF_G8, TEXTUREGROUP_UI, /Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField:RobotoDistanceField_PageA, NO, NO, NO, 0, 1, YES
+64x64 (121 KB, ?), 64x64 (121 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.T_VolumeNoiseShape64, NO, NO, NO, 0, 1, NO
+128x128 (62 KB, ?), 128x128 (62 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/DefaultTextureCube.DefaultTextureCube, NO, NO, NO, 0, 8, NO
+256x256 (39 KB, ?), 256x256 (39 KB), PF_ASTC_6x6, TEXTUREGROUP_WorldNormalMap, /Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N, YES, YES, NO, 2, 9, NO
+256x256 (29 KB, ?), 256x256 (29 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/CloudWeatherTexture.CloudWeatherTexture, NO, NO, NO, 0, 1, NO
+64x64 (21 KB, ?), 64x64 (21 KB), PF_B8G8R8A8, TEXTUREGROUP_Bokeh, /Engine/EngineMaterials/DefaultBokeh.DefaultBokeh, NO, NO, NO, 0, 7, NO
+32x32 (18 KB, ?), 32x32 (18 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.T_VolumeNoiseErosion32, NO, NO, NO, 0, 1, NO
+64x64 (16 KB, ?), 64x64 (16 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb, NO, NO, NO, 0, 1, YES
+10x10 (8 KB, ?), 10x10 (8 KB), PF_FloatRGBA, TEXTUREGROUP_World, /Engine/EngineDebugMaterials/VolumeToRender.VolumeToRender, NO, NO, NO, 0, 1, YES
+32x32 (5 KB, ?), 32x32 (5 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/EngineResources/GradientTexture0.GradientTexture0, NO, NO, NO, 0, 6, YES
+64x64 (4 KB, ?), 64x64 (4 KB), PF_G8, TEXTUREGROUP_UI, /Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq, NO, NO, NO, 0, 1, YES
+1024x1024 (612 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse, YES, NO, NO, 0, 11, NO
+128x128 (10 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid, YES, NO, NO, 0, 8, NO
+512x512 (155 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings, YES, NO, NO, 0, 10, NO
+128x128 (10 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/DefaultTexture.DefaultTexture, YES, NO, NO, 0, 8, NO
+128x128 (10 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Paper2D/PlaceholderTextures/DummySpriteTexture.DummySpriteTexture, YES, NO, NO, 1, 8, NO
+512x8 (3 KB, ?), 512x8 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/MiniFont.MiniFont, NO, NO, NO, 0, 1, NO
+32x32 (1 KB, ?), 32x32 (1 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/Black.Black, NO, NO, NO, 0, 6, NO
+32x32 (1 KB, ?), 32x32 (1 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture, NO, NO, NO, 0, 6, NO
+32x16 (0 KB, ?), 32x16 (0 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/CloudGradientTexture.CloudGradientTexture, NO, NO, NO, 0, 1, NO
+16x16 (0 KB, ?), 16x16 (0 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase, NO, NO, NO, 0, 5, NO
+16x16 (0 KB, ?), 16x16 (0 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend, NO, NO, NO, 0, 5, NO
+4x4 (0 KB, ?), 4x4 (0 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineResources/DefaultVolumeTexture.DefaultVolumeTexture, NO, NO, NO, 0, 1, NO
+2x2 (0 KB, ?), 2x2 (0 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture, NO, NO, NO, 0, 2, NO
+1x1 (0 KB, ?), 1x1 (0 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/DefaultWhiteGrid_Low.DefaultWhiteGrid_Low, NO, NO, NO, 0, 1, NO
+0x0 (0 KB, ?), 0x0 (0 KB), PF_Unknown, TEXTUREGROUP_World, /Script/LevelSequence.Default__LevelSequenceMediaController:MediaComponent.MediaTexture, NO, NO, NO, 0, 0, NO
+Total size: InMem= 9.40 MB  OnDisk= 10.17 MB  Count=36, CountApplicableToMin=11
+Total PF_B8G8R8A8 size: InMem= 4.54 MB  OnDisk= 4.54 MB 
+Total PF_G8 size: InMem= 1.30 MB  OnDisk= 1.30 MB 
+Total PF_FloatRGBA size: InMem= 0.01 MB  OnDisk= 0.01 MB 
+Total PF_ASTC_6x6 size: InMem= 3.56 MB  OnDisk= 4.32 MB 
+Total TEXTUREGROUP_World size: InMem= 5.80 MB  OnDisk= 6.57 MB 
+Total TEXTUREGROUP_WorldNormalMap size: InMem= 0.04 MB  OnDisk= 0.04 MB 
+Total TEXTUREGROUP_Skybox size: InMem= 2.70 MB  OnDisk= 2.70 MB 
+Total TEXTUREGROUP_UI size: InMem= 0.84 MB  OnDisk= 0.84 MB 
+Total TEXTUREGROUP_Bokeh size: InMem= 0.02 MB  OnDisk= 0.02 MB 
+MemReport: End command "listtextures nonvt"
+
+MemReport: Begin command "listtextures uncompressed"
+Listing uncompressed textures.
+Cooked/OnDisk: Width x Height (Size in KB, Authored Bias), Current/InMem: Width x Height (Size in KB), Format, LODGroup, Name, Streaming, UnknownRef, VT, Usage Count, NumMips, Uncompressed
+128x8192 (4096 KB, ?), 128x8192 (4096 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/STBlueNoise_vec2_128x128x64.STBlueNoise_vec2_128x128x64, NO, NO, NO, 0, 1, YES
+128x8192 (1024 KB, ?), 128x8192 (1024 KB), PF_G8, TEXTUREGROUP_World, /Engine/EngineMaterials/STBlueNoise_scalar_128x128x64.STBlueNoise_scalar_128x128x64, NO, NO, NO, 0, 1, YES
+256x256 (256 KB, ?), 256x256 (256 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/MobileResources/HUD/VirtualJoystick_Background.VirtualJoystick_Background, NO, NO, NO, 0, 1, YES
+512x256 (171 KB, ?), 512x256 (171 KB), PF_G8, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M, YES, NO, NO, 0, 10, YES
+512x256 (128 KB, ?), 512x256 (128 KB), PF_G8, TEXTUREGROUP_UI, /Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField:RobotoDistanceField_PageA, NO, NO, NO, 0, 1, YES
+64x64 (16 KB, ?), 64x64 (16 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb, NO, NO, NO, 0, 1, YES
+10x10 (8 KB, ?), 10x10 (8 KB), PF_FloatRGBA, TEXTUREGROUP_World, /Engine/EngineDebugMaterials/VolumeToRender.VolumeToRender, NO, NO, NO, 0, 1, YES
+32x32 (5 KB, ?), 32x32 (5 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/EngineResources/GradientTexture0.GradientTexture0, NO, NO, NO, 0, 6, YES
+64x64 (4 KB, ?), 64x64 (4 KB), PF_G8, TEXTUREGROUP_UI, /Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq, NO, NO, NO, 0, 1, YES
+Total size: InMem= 5.57 MB  OnDisk= 5.57 MB  Count=9, CountApplicableToMin=11
+Total PF_B8G8R8A8 size: InMem= 4.27 MB  OnDisk= 4.27 MB 
+Total PF_G8 size: InMem= 1.30 MB  OnDisk= 1.30 MB 
+Total PF_FloatRGBA size: InMem= 0.01 MB  OnDisk= 0.01 MB 
+Total TEXTUREGROUP_World size: InMem= 5.01 MB  OnDisk= 5.01 MB 
+Total TEXTUREGROUP_Skybox size: InMem= 0.17 MB  OnDisk= 0.17 MB 
+Total TEXTUREGROUP_UI size: InMem= 0.40 MB  OnDisk= 0.40 MB 
+MemReport: End command "listtextures uncompressed"
+
+MemReport: Begin command "LogOutStatLevels"
+Levels:
+    /Game/StartLevel
+MemReport: End command "LogOutStatLevels"
+
+MemReport: Begin command "ListSpawnedActors"
+Listing spawned actors in persistent level:
+Total: 24
+TimeUnseen,TimeAlive,Distance,Class,Name,Owner
+ 64.27, 64.27,       0,AbstractNavData,AbstractNavData-Default,None
+ 64.27, 64.27,       0,DefaultPawn,DefaultPawn_2147482495,PlayerController_2147482505
+ 64.27, 64.27,       0,GameModeBase,GameModeBase_2147482516,None
+ 64.27, 64.27,       0,GameNetworkManager,GameNetworkManager_2147482508,None
+ 64.27, 64.27,       0,GameplayDebuggerCategoryReplicator,GameplayDebuggerCategoryReplicator_2147482493,None
+ 64.27, 64.27,       0,GameSession,GameSession_2147482512,None
+ 64.27, 64.27,       0,GameStateBase,GameStateBase_2147482509,None
+ 64.27, 64.27,       0,HUD,HUD_2147482496,PlayerController_2147482505
+ 64.27, 64.27,       0,ParticleEventManager,ParticleEventManager_2147482511,WorldSettings_1
+ 64.27, 64.27,       0,PlayerCameraManager,PlayerCameraManager_2147482503,PlayerController_2147482505
+ 64.27, 64.27,       0,PlayerController,PlayerController_2147482505,None
+ 64.27, 64.27,       0,PlayerState,PlayerState_2147482504,PlayerController_2147482505
+MemReport: End command "ListSpawnedActors"
+
+MemReport: Begin command "wp.DumpDataLayers"
+MemReport: End command "wp.DumpDataLayers"
+
+MemReport: Begin command "wp.DumpStreamingSources"
+MemReport: End command "wp.DumpStreamingSources"
+
+MemReport: Begin command "DumpParticleMem"
+Particle Dynamic Memory Stats
+Type,Count,MaxCount,Mem(Bytes),MaxMem(Bytes),GTMem(Bytes),GTMemMax(Bytes)
+Total PSysComponents,0,0,0,0,0,0
+Total DynamicEmitters,0,0,0,0,0,0
+Sprite,0,0,0,0,0,0
+Mesh,0,0,0,0,0,0
+Beam,0,0,0,0,0,0
+Ribbon,0,0,0,0,0,0
+AnimTrail,0,0,0,0,0,0
+Untracked,0,0,0,0,0,0
+ParticleData,Total(Bytes),FMath::Max(Bytes)
+GameThread,0,0
+RenderThread,0,0
+Max wasted GT,0
+Largest single GT allocation,0
+Largest single RT allocation,0
+Particle Order Pool Stats
+    0 entries for     0 bytes
+MemReport: End command "DumpParticleMem"
+
+MemReport: Begin command "ConfigMem"
+Config cache memory usage:
+                                                                  FileName          NumBytes          MaxBytes
+                                                                KnownFiles           1492102           1715492
+                  ../../../TextureTest/Saved/Config/Android/ControlRig.ini            245224            265616
+                     ../../../TextureTest/Saved/Config/Android/Niagara.ini             84478             91128
+            ../../../TextureTest/Saved/Config/Android/DatasmithContent.ini             16792             18936
+                   ../../../TextureTest/Saved/Config/Android/Metasound.ini             12918             14840
+../../../TextureTest/Saved/Config/Android/EditorPerProjectUserSettings.ini             10928             12704
+            ../../../TextureTest/Saved/Config/Android/GameplayTagsList.ini              9704             11328
+               ../../../TextureTest/Saved/Config/Android/UnLuaSettings.ini              9398             11200
+                       ../../../TextureTest/Saved/Config/Android/UnLua.ini              8582             10144
+    ../../../TextureTest/Saved/Config/Android/EditorScriptingUtilities.ini              8112              9784
+               ../../../TextureTest/Saved/Config/Android/EnhancedInput.ini              5930              7512
+                     ../../../TextureTest/Saved/Config/Android/Paper2D.ini              5874              7576
+                   ../../../TextureTest/Saved/Config/Android/Synthesis.ini              4946              6488
+                       ../../../TextureTest/Saved/Config/Android/IKRig.ini              4642              6104
+       ../../../TextureTest/Saved/Config/Android/VariantManagerContent.ini              3914              5456
+                ../../../TextureTest/Saved/Config/Android/GLTFExporter.ini              3356              4912
+                  ../../../TextureTest/Saved/Config/Android/FullBodyIK.ini              3352              4976
+              ../../../TextureTest/Saved/Config/Android/TraceUtilities.ini              3340              4768
+                               ../../../Engine/Config/ConsoleVariables.ini               476               592
+../../../TextureTest/Saved/Config/Android/ExampleDeviceProfileSelector.ini               150               208
+../../../TextureTest/Saved/Config/Android/AndroidDeviceProfileSelector.ini               150               208
+   ../../../TextureTest/Saved/Config/Android/LocationServicesBPLibrary.ini               144               208
+    ../../../TextureTest/Saved/Config/Android/GeometryCollectionPlugin.ini               142               208
+     ../../../TextureTest/Saved/Config/Android/ProceduralMeshComponent.ini               140               208
+      ../../../TextureTest/Saved/Config/Android/EnvironmentQueryEditor.ini               138               208
+        ../../../TextureTest/Saved/Config/Android/CameraShakePreviewer.ini               134               208
+        ../../../TextureTest/Saved/Config/Android/GoogleCloudMessaging.ini               134               208
+        ../../../TextureTest/Saved/Config/Android/OnlineSubsystemUtils.ini               134               208
+        ../../../TextureTest/Saved/Config/Android/PropertyAccessEditor.ini               134               208
+         ../../../TextureTest/Saved/Config/Android/BlueprintHeaderView.ini               132               208
+         ../../../TextureTest/Saved/Config/Android/CustomMeshComponent.ini               132               208
+         ../../../TextureTest/Saved/Config/Android/MobilePatchingUtils.ini               132               208
+         ../../../TextureTest/Saved/Config/Android/OnlineSubsystemNull.ini               132               208
+         ../../../TextureTest/Saved/Config/Android/ActorLayerUtilities.ini               132               208
+         ../../../TextureTest/Saved/Config/Android/LevelSequenceEditor.ini               132               208
+         ../../../TextureTest/Saved/Config/Android/SignificanceManager.ini               132               208
+          ../../../TextureTest/Saved/Config/Android/AndroidMoviePlayer.ini               130               208
+          ../../../TextureTest/Saved/Config/Android/PythonScriptPlugin.ini               130               208
+          ../../../TextureTest/Saved/Config/Android/GeometryProcessing.ini               130               208
+          ../../../TextureTest/Saved/Config/Android/AssetManagerEditor.ini               130               208
+          ../../../TextureTest/Saved/Config/Android/SequencerAnimTools.ini               130               208
+          ../../../TextureTest/Saved/Config/Android/SequencerScripting.ini               130               208
+           ../../../TextureTest/Saved/Config/Android/ChaosSolverPlugin.ini               128               176
+           ../../../TextureTest/Saved/Config/Android/SpeedTreeImporter.ini               128               176
+           ../../../TextureTest/Saved/Config/Android/AndroidFileServer.ini               128               176
+           ../../../TextureTest/Saved/Config/Android/AndroidPermission.ini               128               176
+            ../../../TextureTest/Saved/Config/Android/MediaCompositing.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/AnimationSharing.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/InterchangeTests.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/ChaosClothEditor.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/TemplateSequence.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/ControlRigSpline.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/ArchVisCharacter.ini               126               176
+            ../../../TextureTest/Saved/Config/Android/AudioSynesthesia.ini               126               176
+             ../../../TextureTest/Saved/Config/Android/FacialAnimation.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/AutomationUtils.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/ChaosUserDataPT.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/GameplayCameras.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/DumpGPUServices.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/AlembicImporter.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/ChunkDownloader.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/AppleImageUtils.ini               124               176
+             ../../../TextureTest/Saved/Config/Android/OnlineSubsystem.ini               124               176
+              ../../../TextureTest/Saved/Config/Android/OnlineServices.ini               122               176
+              ../../../TextureTest/Saved/Config/Android/InputDebugging.ini               122               176
+              ../../../TextureTest/Saved/Config/Android/CableComponent.ini               122               176
+              ../../../TextureTest/Saved/Config/Android/PlatformCrypto.ini               122               176
+              ../../../TextureTest/Saved/Config/Android/ResonanceAudio.ini               122               176
+               ../../../TextureTest/Saved/Config/Android/AnimationData.ini               120               176
+               ../../../TextureTest/Saved/Config/Android/GeometryCache.ini               120               176
+               ../../../TextureTest/Saved/Config/Android/ActorSequence.ini               120               176
+               ../../../TextureTest/Saved/Config/Android/UObjectPlugin.ini               120               176
+                ../../../TextureTest/Saved/Config/Android/MeshPainting.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/AudioCapture.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/ChaosCaching.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/GeometryMode.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/OodleNetwork.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/AudioWidgets.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/TcpMessaging.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/UdpMessaging.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/ChaosNiagara.ini               118               176
+                ../../../TextureTest/Saved/Config/Android/AndroidMedia.ini               118               176
+                 ../../../TextureTest/Saved/Config/Android/ChaosEditor.ini               116               176
+                 ../../../TextureTest/Saved/Config/Android/SoundFields.ini               116               176
+                 ../../../TextureTest/Saved/Config/Android/PluginUtils.ini               116               176
+                 ../../../TextureTest/Saved/Config/Android/ObjectMixer.ini               116               176
+                 ../../../TextureTest/Saved/Config/Android/BackChannel.ini               116               176
+                 ../../../TextureTest/Saved/Config/Android/CharacterAI.ini               116               176
+                  ../../../TextureTest/Saved/Config/Android/MediaPlate.ini               114               176
+                  ../../../TextureTest/Saved/Config/Android/OnlineBase.ini               114               176
+                  ../../../TextureTest/Saved/Config/Android/ChaosCloth.ini               114               176
+                  ../../../TextureTest/Saved/Config/Android/LightMixer.ini               114               176
+                   ../../../TextureTest/Saved/Config/Android/AssetTags.ini               112               176
+                   ../../../TextureTest/Saved/Config/Android/WaveTable.ini               112               176
+                   ../../../TextureTest/Saved/Config/Android/AISupport.ini               112               176
+                   ../../../TextureTest/Saved/Config/Android/GooglePAD.ini               112               176
+                    ../../../TextureTest/Saved/Config/Android/ImgMedia.ini               110               176
+                    ../../../TextureTest/Saved/Config/Android/UVEditor.ini               110               176
+                    ../../../TextureTest/Saved/Config/Android/Fracture.ini               110               176
+                    ../../../TextureTest/Saved/Config/Android/Dataflow.ini               110               176
+                       ../../../TextureTest/Config/DefaultGameplayTags.ini               104               176
+                       ../../../TextureTest/Saved/Config/Android/Takes.ini               104               176
+                                                                     Total           1947830           2228436
+MemReport: End command "ConfigMem"
+
+MemReport: Begin command "r.DumpRenderTargetPoolMemory"
+Pooled Render Targets:
+   0.006MB  768x   8           1mip(s) AsciiTexture (R8) Unused frames: 0
+   0.032MB   66x  64           1mip(s) SSProfiles (A16B16G16R16) Unused frames: 0
+   0.016MB   64x  64    [  1]  1mip(s) SSProfilePreIntegratedTexture (A2B10G10R10) Unused frames: 0
+   0.062MB  256x  64           1mip(s) SkyAtmosphere.TransmittanceLut (R8G8B8A8) Unused frames: 0
+   0.008MB   32x  32           1mip(s) SkyAtmosphere.MultiScatteredLuminanceLut (FloatRGBA) Unused frames: 0
+   0.001MB    1x   1           1mip(s) SkyAtmosphere.DistantSkyLightLut (FloatRGBA) Unused frames: 0
+   0.037MB   96x  50           1mip(s) SkyAtmosphere.SkyViewLut (FloatRGBA) Unused frames: 1
+   0.031MB   32x  32x  4       1mip(s) SkyAtmosphere.CameraAPVolume0 (FloatRGBA) Unused frames: 0
+   0.031MB   32x  32x  4       1mip(s) SkyAtmosphere.CameraAPVolume1 (FloatRGBA) Unused frames: 0
+  32.000MB 4096x2048           1mip(s) MobileCSMAndSpotLightShadowmap (ShadowDepth) Unused frames: 1
+   0.125MB 1024x  32           1mip(s) CombineLUTs (A2B10G10R10) Unused frames: 0
+   4.395MB 1600x 720           1mip(s) SceneColor (FloatR11G11B10) Unused frames: 1
+   2.197MB 1600x 720           1mip(s) SceneDepthAux (PF_R16F) Unused frames: 1
+   4.395MB 1600x 720           1mip(s) SceneDepthZ (DepthStencil) Unused frames: 1
+   0.275MB  400x 180           1mip(s) BloomSetup_Bloom (FloatR11G11B10) Unused frames: 1
+   0.138MB  400x 180           1mip(s) BloomSetup_EyeAdaptation (PF_R16F) Unused frames: 1
+   0.069MB  200x  90           1mip(s) BloomDown (FloatR11G11B10) Unused frames: 1
+   0.018MB  100x  45           1mip(s) BloomDown (FloatR11G11B10) Unused frames: 1
+   0.005MB   50x  23           1mip(s) BloomDown (FloatR11G11B10) Unused frames: 1
+   0.002MB   25x  12           1mip(s) BloomDown (FloatR11G11B10) Unused frames: 1
+   0.005MB   50x  23           1mip(s) BloomUp (FloatR11G11B10) Unused frames: 1
+   0.018MB  100x  45           1mip(s) BloomUp (FloatR11G11B10) Unused frames: 1
+   0.069MB  200x  90           1mip(s) BloomUp (FloatR11G11B10) Unused frames: 1
+   0.275MB  400x 180           1mip(s) SunMerge (FloatR11G11B10) Unused frames: 1
+   4.395MB 1600x 720           1mip(s) Tonemap (B8G8R8A8) Unused frames: 1
+   1.000MB  128x 128cube       8mip(s) ReflectionCubeTexture (FloatRGBA) Unused frames: 3852
+   0.031MB   32x  32x  4       1mip(s) SkyAtmosphere.CameraAPVolume (FloatRGBA) Unused frames: 3852
+   0.062MB  128x 128           1mip(s) SceneColor (FloatR11G11B10) Unused frames: 3852
+   0.031MB  128x 128           1mip(s) SceneDepthAux (PF_R16F) Unused frames: 3852
+   0.062MB  128x 128           1mip(s) SceneDepthZ (DepthStencil) Unused frames: 3852
+   0.001MB    1x   1           1mip(s) ReflectionBrightness (FloatRGBA) Unused frames: 3852
+   0.062MB   32x  32cube       6mip(s) DiffuseIrradianceCubemap (FloatRGBA) Unused frames: 3852
+   0.001MB    9x   1           1mip(s) SkySHIrradiance (FloatRGBA) Unused frames: 3852
+   1.000MB  128x 128cube       8mip(s) FilteredCubemapTexture (FloatRGBA) Unused frames: 3852
+   0.138MB  400x 180           1mip(s) BloomSetup_EyeAdaptation (PF_R16F) Unused frames: 0
+50.994MB total, 0.450MB used, 2.252MB unused, 35 render targets
+Deferred Render Targets:
+0.000MB Deferred total
+MemReport: End command "r.DumpRenderTargetPoolMemory"
+
+MemReport: Begin command "ListTextures"
+Listing all textures.
+Cooked/OnDisk: Width x Height (Size in KB, Authored Bias), Current/InMem: Width x Height (Size in KB), Format, LODGroup, Name, Streaming, UnknownRef, VT, Usage Count, NumMips, Uncompressed
+128x8192 (4096 KB, ?), 128x8192 (4096 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/STBlueNoise_vec2_128x128x64.STBlueNoise_vec2_128x128x64, NO, NO, NO, 0, 1, YES
+2048x2048 (2439 KB, ?), 2048x2048 (2439 KB), PF_ASTC_6x6, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Blue.T_Sky_Blue, YES, NO, NO, 0, 12, NO
+128x8192 (1024 KB, ?), 128x8192 (1024 KB), PF_G8, TEXTUREGROUP_World, /Engine/EngineMaterials/STBlueNoise_scalar_128x128x64.STBlueNoise_scalar_128x128x64, NO, NO, NO, 0, 1, YES
+1440x720 (450 KB, ?), 1440x720 (450 KB), PF_ASTC_6x6, TEXTUREGROUP_UI, /Game/img_game_bg_1.img_game_bg_1, NO, NO, NO, 0, 1, NO
+256x256 (256 KB, ?), 256x256 (256 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF, NO, NO, NO, 0, 1, NO
+256x256 (256 KB, ?), 256x256 (256 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/MobileResources/HUD/VirtualJoystick_Background.VirtualJoystick_Background, NO, NO, NO, 0, 1, YES
+512x256 (171 KB, ?), 512x256 (171 KB), PF_G8, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M, YES, NO, NO, 0, 10, YES
+512x512 (155 KB, ?), 512x512 (155 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M, YES, YES, NO, 2, 10, NO
+512x512 (155 KB, ?), 512x512 (155 KB), PF_ASTC_6x6, TEXTUREGROUP_Skybox, /Engine/EngineSky/T_Sky_Stars.T_Sky_Stars, YES, NO, NO, 0, 10, NO
+512x512 (155 KB, ?), 512x512 (155 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.T_GridChecker_A, YES, NO, NO, 1, 10, NO
+512x256 (128 KB, ?), 512x256 (128 KB), PF_G8, TEXTUREGROUP_UI, /Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField:RobotoDistanceField_PageA, NO, NO, NO, 0, 1, YES
+64x64 (121 KB, ?), 64x64 (121 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.T_VolumeNoiseShape64, NO, NO, NO, 0, 1, NO
+128x128 (62 KB, ?), 128x128 (62 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/DefaultTextureCube.DefaultTextureCube, NO, NO, NO, 0, 8, NO
+256x256 (39 KB, ?), 256x256 (39 KB), PF_ASTC_6x6, TEXTUREGROUP_WorldNormalMap, /Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N, YES, YES, NO, 2, 9, NO
+256x256 (29 KB, ?), 256x256 (29 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/CloudWeatherTexture.CloudWeatherTexture, NO, NO, NO, 0, 1, NO
+64x64 (21 KB, ?), 64x64 (21 KB), PF_B8G8R8A8, TEXTUREGROUP_Bokeh, /Engine/EngineMaterials/DefaultBokeh.DefaultBokeh, NO, NO, NO, 0, 7, NO
+32x32 (18 KB, ?), 32x32 (18 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.T_VolumeNoiseErosion32, NO, NO, NO, 0, 1, NO
+64x64 (16 KB, ?), 64x64 (16 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb, NO, NO, NO, 0, 1, YES
+10x10 (8 KB, ?), 10x10 (8 KB), PF_FloatRGBA, TEXTUREGROUP_World, /Engine/EngineDebugMaterials/VolumeToRender.VolumeToRender, NO, NO, NO, 0, 1, YES
+32x32 (5 KB, ?), 32x32 (5 KB), PF_B8G8R8A8, TEXTUREGROUP_UI, /Engine/EngineResources/GradientTexture0.GradientTexture0, NO, NO, NO, 0, 6, YES
+64x64 (4 KB, ?), 64x64 (4 KB), PF_G8, TEXTUREGROUP_UI, /Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq, NO, NO, NO, 0, 1, YES
+1024x1024 (612 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse, YES, NO, NO, 0, 11, NO
+128x128 (10 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid, YES, NO, NO, 0, 8, NO
+512x512 (155 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings, YES, NO, NO, 0, 10, NO
+128x128 (10 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/DefaultTexture.DefaultTexture, YES, NO, NO, 0, 8, NO
+128x128 (10 KB, ?), 64x64 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Paper2D/PlaceholderTextures/DummySpriteTexture.DummySpriteTexture, YES, NO, NO, 1, 8, NO
+512x8 (3 KB, ?), 512x8 (3 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/MiniFont.MiniFont, NO, NO, NO, 0, 1, NO
+32x32 (1 KB, ?), 32x32 (1 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/Black.Black, NO, NO, NO, 0, 6, NO
+32x32 (1 KB, ?), 32x32 (1 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture, NO, NO, NO, 0, 6, NO
+32x16 (0 KB, ?), 32x16 (0 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineSky/VolumetricClouds/CloudGradientTexture.CloudGradientTexture, NO, NO, NO, 0, 1, NO
+16x16 (0 KB, ?), 16x16 (0 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase, NO, NO, NO, 0, 5, NO
+16x16 (0 KB, ?), 16x16 (0 KB), PF_ASTC_6x6, TEXTUREGROUP_World, /Engine/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend, NO, NO, NO, 0, 5, NO
+4x4 (0 KB, ?), 4x4 (0 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineResources/DefaultVolumeTexture.DefaultVolumeTexture, NO, NO, NO, 0, 1, NO
+2x2 (0 KB, ?), 2x2 (0 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture, NO, NO, NO, 0, 2, NO
+1x1 (0 KB, ?), 1x1 (0 KB), PF_B8G8R8A8, TEXTUREGROUP_World, /Engine/EngineMaterials/DefaultWhiteGrid_Low.DefaultWhiteGrid_Low, NO, NO, NO, 0, 1, NO
+0x0 (0 KB, ?), 0x0 (0 KB), PF_Unknown, TEXTUREGROUP_World, /Script/LevelSequence.Default__LevelSequenceMediaController:MediaComponent.MediaTexture, NO, NO, NO, 0, 0, NO
+Total size: InMem= 9.40 MB  OnDisk= 10.17 MB  Count=36, CountApplicableToMin=11
+Total PF_B8G8R8A8 size: InMem= 4.54 MB  OnDisk= 4.54 MB 
+Total PF_G8 size: InMem= 1.30 MB  OnDisk= 1.30 MB 
+Total PF_FloatRGBA size: InMem= 0.01 MB  OnDisk= 0.01 MB 
+Total PF_ASTC_6x6 size: InMem= 3.56 MB  OnDisk= 4.32 MB 
+Total TEXTUREGROUP_World size: InMem= 5.80 MB  OnDisk= 6.57 MB 
+Total TEXTUREGROUP_WorldNormalMap size: InMem= 0.04 MB  OnDisk= 0.04 MB 
+Total TEXTUREGROUP_Skybox size: InMem= 2.70 MB  OnDisk= 2.70 MB 
+Total TEXTUREGROUP_UI size: InMem= 0.84 MB  OnDisk= 0.84 MB 
+Total TEXTUREGROUP_Bokeh size: InMem= 0.02 MB  OnDisk= 0.02 MB 
+MemReport: End command "ListTextures"
+
+MemReport: Begin command "ListParticleSystems -alphasort"
+ParticleSystems:
+Size,Name,PSysSize,ModuleSize,ComponentSize,ComponentCount,CompResSize,CompTrueResSize
+         0,Total,0,0,0,0,0,0
+MemReport: End command "ListParticleSystems -alphasort"
+
+MemReport: Begin command "obj list class=SoundWave -alphasort"
+Obj List: class=SoundWave -alphasort
+Objects:
+
+0 Objects (Total: 0.000M / Max: 0.000M / Res: 0.000M | ResDedSys: 0.000M / ResDedVid: 0.000M / ResUnknown: 0.000M)
+MemReport: End command "obj list class=SoundWave -alphasort"
+
+MemReport: Begin command "obj list class=SkeletalMesh -alphasort"
+Obj List: class=SkeletalMesh -alphasort
+Objects:
+
+0 Objects (Total: 0.000M / Max: 0.000M / Res: 0.000M | ResDedSys: 0.000M / ResDedVid: 0.000M / ResUnknown: 0.000M)
+MemReport: End command "obj list class=SkeletalMesh -alphasort"
+
+MemReport: Begin command "obj list class=StaticMesh -alphasort"
+Obj List: class=StaticMesh -alphasort
+Objects:
+
+                                                                                                                                      Object      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                               StaticMesh /Engine/EngineMeshes/Sphere.Sphere       1.73       1.77      14.66            0.50            0.00           14.16
+                                                                                      StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere       1.66       1.69     107.68            0.50            0.00          107.18
+                                                                 StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor       2.23       2.28       4.46            0.50            0.00            3.96
+                                                                              StaticMesh /MediaPlate/SM_MediaPlateScreen.SM_MediaPlateScreen       1.77       1.80       1.38            0.50            0.00            0.88
+
+                                                                                                Class    Count      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                           StaticMesh        4       7.39       7.53     128.17            2.00            0.00          126.17
+
+4 Objects (Total: 0.007M / Max: 0.007M / Res: 0.125M | ResDedSys: 0.002M / ResDedVid: 0.000M / ResUnknown: 0.123M)
+MemReport: End command "obj list class=StaticMesh -alphasort"
+
+MemReport: Begin command "obj list class=Level -alphasort"
+Obj List: class=Level -alphasort
+Objects:
+
+                                                                                                                                      Object      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                           Level /Game/StartLevel.StartLevel:PersistentLevel       1.09       1.29       0.00            0.00            0.00            0.00
+
+                                                                                                Class    Count      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                                Level        1       1.09       1.29       0.00            0.00            0.00            0.00
+
+1 Objects (Total: 0.001M / Max: 0.001M / Res: 0.000M | ResDedSys: 0.000M / ResDedVid: 0.000M / ResUnknown: 0.000M)
+MemReport: End command "obj list class=Level -alphasort"
+
+MemReport: Begin command "obj list class=StaticMeshComponent -alphasort"
+Obj List: class=StaticMeshComponent -alphasort
+Objects:
+
+                                                                                                                                      Object      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                       StaticMeshComponent /Game/StartLevel.StartLevel:PersistentLevel.DefaultPawn_2147482495.MeshComponent0       1.56       1.92       1.09            1.09            0.00            0.00
+                                                  StaticMeshComponent /Game/StartLevel.StartLevel:PersistentLevel.Floor.StaticMeshComponent0       1.85       1.86       1.05            1.05            0.00            0.00
+                                      StaticMeshComponent /Game/StartLevel.StartLevel:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0       1.58       1.94       1.05            1.05            0.00            0.00
+
+                                                                                                Class    Count      NumKB      MaxKB   ResExcKB  ResExcDedSysKB  ResExcDedVidKB     ResExcUnkKB
+                                                                                  StaticMeshComponent        3       4.99       5.72       3.19            3.19            0.00            0.00
+
+3 Objects (Total: 0.005M / Max: 0.006M / Res: 0.003M | ResDedSys: 0.003M / ResDedVid: 0.000M / ResUnknown: 0.000M)
+MemReport: End command "obj list class=StaticMeshComponent -alphasort"
+
